@@ -1,0 +1,31 @@
+= Wonderland, Inc.
+Claude 3.7 Sonnet (Extended) and Dan Wahl
+:doctype: book
+:sectnums:
+:toc: macro
+
+toc::[]
+
+include::01-down-the-corporate-rabbit-hole.adoc[]
+
+include::02-the-pool-of-corporate-jargon.adoc[]
+
+include::03-a-team-building-exercise-and-a-long-email-thread.adoc[]
+
+include::04-the-executive-assistant-sends-in-a-direct-report.adoc[]
+
+include::05-advice-from-it.adoc[]
+
+include::06-micromanagement-and-pressure.adoc[]
+
+include::07-a-pointless-meeting-party.adoc[]
+
+include::08-the-ceos-performance-review-ground.adoc[]
+
+include::09-the-veteran-employees-story.adoc[]
+
+include::10-the-conference-call-quadrille.adoc[]
+
+include::11-who-stole-the-intellectual-property.adoc[]
+
+include::12-bobs-evidence.adoc[]

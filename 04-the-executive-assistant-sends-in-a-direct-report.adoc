@@ -1,0 +1,247 @@
+== The Executive Assistant Sends in a Direct Report
+
+The door through which Harvey had disappeared led to yet another corridor, this one more polished and corporate than the previous areas Bob had explored. The walls were lined with motivational posters featuring stock photos of diverse people in business attire looking unreasonably excited about graphs and handshakes.
+
+Bob hurried down the hallway, catching glimpses of Harvey turning corners ahead of him. The executive assistant moved with remarkable speed for someone constantly checking multiple devices.
+
+"Mr. White!" Bob called out, hoping to catch his attention. "Harvey!"
+
+Harvey finally paused at the sound of his name, turning around with a harried expression. When he spotted Bob, his eyes widened in what appeared to be recognition, though Bob was certain they hadn't formally met.
+
+"Mary Ann! There you are!" Harvey exclaimed, rushing back toward Bob. "Where have you been? I've sent seventeen calendar invites, twelve Slack messages, and four high-priority emails!"
+
+"I'm not Mary Ann," Bob began to explain. "My name is—"
+
+"No time for identity crises!" Harvey cut him off, grabbing Bob's arm and pulling him down the corridor. "The executive team needs the Q4 analytics report for the projections meeting that started"—he checked his Apple Watch—"eleven minutes and forty-three seconds ago! Regina is going to have someone's head for this delay."
+
+"But I don't have any analytics report," Bob protested. "I just started today."
+
+Harvey stopped abruptly, looking Bob up and down with newfound suspicion. "Are you certain you're not Mary Ann from Data Analysis?"
+
+"Positive. I'm Bob Henderson. I was supposed to start as a Project Coordinator today, but somehow ended up... here." He gestured vaguely at their surroundings.
+
+Harvey's expression cycled rapidly through confusion, alarm, and then resignation. "Well, you're wearing a company badge, so you must belong somewhere." He squinted at Bob's ID. "Transformation Catalyst? That's a new one. HR keeps inventing positions without telling me."
+
+He checked his devices again and made a split-second decision. "Doesn't matter. You're here, and I need those reports. You can access Bill Lizard's workstation and pull the files—he's out at a vendor meeting until 2:30."
+
+"I really don't think I should—"
+
+"Here," Harvey interrupted, removing his own badge and swiping it through a card reader on the wall. A hidden panel slid open, revealing a row of keycards. He grabbed one and thrust it at Bob. "Temporary access to the analytics department. Get the Q4 reports from Bill's computer, bring them to Conference Room E—that's the Executive Suite, north wing, second floor."
+
+"But I don't know how to—"
+
+"Just log in with the guest credentials on the sticky note under his keyboard, navigate to the shared drive, and find the folder labeled 'ExecReady.' The files are called Q4_Analytics_Final_FINAL_v7_ACTUAL_FINAL.xlsx and RegionaldataQ4_complete_USE-THIS-ONE.pptx." Harvey recited this without taking a breath.
+
+Before Bob could protest further, Harvey was already rushing away. "Fifteen minutes late now! I'll stall them with the coffee service delay tactic. Do NOT make me use the printer malfunction excuse again!"
+
+With that, he disappeared around a corner, leaving Bob holding the access keycard and feeling more confused than ever.
+
+"I should just find my way back to reception," Bob muttered to himself. But curiosity—and the fact that he was thoroughly lost—pushed him to follow Harvey's instructions. Perhaps helping retrieve these reports would lead him to someone who could properly orient him.
+
+Using the keycard, Bob passed through a series of security doors, each leading to increasingly specialized department areas. He passed the "Future Forecasting Unit" where employees stared intensely at what appeared to be crystal balls displaying stock charts. Next was the "Retroactive Planning Division" where staff were busily editing documents dated from the previous year.
+
+The signs grew more specific and unusual as he continued: "Hypothetical Outcome Visualization," "Narrative Adjustment Team," and most puzzlingly, "Department of Redundancy Department."
+
+Finally, Bob reached a door labeled "Quantitative Analytics and Data Interpretation Division (QADID)." He swiped the card and entered a dimly lit room filled with cubicles so small they resembled hutches more than workspaces.
+
+Each cubicle had a nameplate, and Bob moved through the maze until he found one marked "William Lizard, Sr. Data Interpreter (Junior Grade)." The space was barely large enough for the desk it contained, with a chair that had to be pushed fully under the desk to allow the occupant to enter or exit the cubicle.
+
+Bob squeezed himself into the tiny space, his knees bumping against the desk as he sat down. The cubicle walls seemed to press in on him from all sides, lined with printouts of incomprehensible data charts and a small whiteboard covered in mathematical formulas.
+
+The computer was still running, displaying a screensaver of the Wonderland, Inc. logo bouncing around like a DVD player icon. Bob moved the mouse, revealing a login screen. As Harvey had mentioned, there was indeed a sticky note under the keyboard with guest login credentials.
+
+Bob typed in the username ("guest_user_417") and password ("P@ssw0rd!23456_TEMP_d0NT_ch@nge") and pressed Enter. The system whirred to life, opening directly to a desktop cluttered with hundreds of folders and files with names like "IMPORTANT_BACKUP_OLD" and "DELETE_AFTER_REVIEW_2019."
+
+"How am I supposed to find anything in this?" Bob muttered, opening the file explorer to search for the shared drive.
+
+He navigated through an increasingly complex folder structure:
+
+*S: → Departments → Analytics → Teams → QADID → Projects → Quarterly → 2025 → Q4 → Reports → Executive → Final → Actually_Final → No_Really_Final → Approved*
+
+Each subfolder contained dozens more folders with similar naming conventions. Bob's frustration grew as he clicked through the byzantine structure. When he finally found what appeared to be the right location, he discovered seven different files with nearly identical names to what Harvey had specified, each with slightly different dates and version numbers.
+
+Unsure which was truly the latest version, Bob decided to open several files to compare them. He clicked on three Excel files and two PowerPoint presentations simultaneously. The computer, which appeared to be several years old, struggled under the sudden workload. The fan began to whir loudly.
+
+Bob waited as the files slowly opened. When they finally loaded, he was confronted with spreadsheets containing thousands of rows of data and presentations with hundreds of slides. The computer slowed to a crawl as he attempted to switch between them.
+
+"This is impossible," he muttered, clicking on yet another file in hopes of finding the correct one.
+
+A warning message appeared: *"System resources critically low. Close applications to prevent data loss."*
+
+Bob tried to close some of the files, but the computer had become unresponsive. Each click seemed to open another application rather than closing the existing ones. Soon the taskbar was filled with open programs and dialog boxes.
+
+The fan noise increased to a concerning whine. The screen began to flicker. Bob felt panic rising as the computer struggled under his commands. It was as if the machine was growing too small for the tasks he was asking it to perform—or conversely, as if his digital presence had grown too large for the limited system.
+
+Another warning appeared: *"Unauthorized access attempts detected. Security protocols initiated."*
+
+"No, no, no," Bob groaned, desperately clicking the cancel button. Instead of resolving the issue, this triggered a cascade of new error messages. One particularly ominous dialog box flashed red:
+
+*"SECURITY BREACH DETECTED. SYSTEM LOCKDOWN INITIATED. IT SECURITY ALERTED."*
+
+The computer froze completely, displaying only the error message and a progress bar labeled "Collecting incident data for security analysis."
+
+Bob sat back in the too-small chair, a sense of dread washing over him. He'd been in the company less than a day and had already triggered a security incident. He glanced at his watch—only ten minutes had passed since Harvey had left him with this task.
+
+Suddenly, the cubicle was filled with the sound of an alarm—not a building-wide emergency alarm, but rather the distinct notification sound of multiple phones receiving the same alert simultaneously. From beyond the cubicle walls came the sound of rapid movement and urgent voices.
+
+"Section 12 breach!"
+"Unauthorized access in QADID!"
+"Workstation 27B reporting anomalous activity!"
+
+Bob peeked over the cubicle wall to see several people in matching polo shirts with "IT RESPONSE TEAM" printed on the back hurrying in his direction. They moved with the coordinated precision of a SWAT team, each carrying tablets and equipment bags.
+
+Ducking back down, Bob considered his options. He could try to explain the situation—that he was new and had been sent by Harvey—but given how strange everything had been so far, he wasn't confident that would help. He could make a run for it, but he had no idea how to exit this maze of departments.
+
+Before he could decide, the response team arrived at Bill Lizard's cubicle. Two team members, who Bob noted with surprise were indeed unusually small and round-faced like guinea pigs, peered over the wall at him.
+
+"Unauthorized user detected," announced one, pointing a tablet at Bob like a weapon.
+
+"Initiating containment protocol," said the other, speaking into a headset. "Subject is in the premises. Repeat, subject is in the premises."
+
+A third responder, taller and thinner than the others, pushed his way to the front. "I'm Pat, IT Security Lead. Identify yourself and explain your presence at this workstation."
+
+"I'm Bob Henderson," he explained, showing his badge. "I just started today. Harvey White asked me to retrieve some files for the executive meeting, but I think I've crashed the system."
+
+The team exchanged skeptical glances.
+
+"A likely story," said Pat. "Why would Harvey send a new hire to access sensitive analytics data?"
+
+"He thought I was someone named Mary Ann," Bob explained, realizing how absurd it sounded.
+
+Pat spoke into his headset. "We need Bill Lizard from Analytics. Emergency override on his vendor meeting."
+
+Within minutes, a thin, nervous-looking man with a lizard-like quality to his movements hurried into the department. His eyes widened in alarm when he saw the state of his cubicle and the assembled response team.
+
+"My workstation! What's happening?" Bill asked, his voice rising in panic.
+
+"This individual claims Harvey White authorized him to access your system," Pat explained, gesturing at Bob.
+
+Bill looked at Bob with growing horror. "That's impossible! No one touches my data models. The normalization parameters are extremely delicate!"
+
+"I was just trying to find the Q4 reports," Bob explained.
+
+"Q4 reports?" Bill's expression shifted from horror to confusion. "Those aren't due until next week. We're still in Q3."
+
+A chime sounded, and one of the guinea pig-like IT responders held up a tablet. "Incoming video call from Executive Suite."
+
+Pat nodded grimly. "Put it on screen."
+
+The largest monitor in the department lit up, displaying a video call with Harvey and several serious-looking executives visible in the background. Harvey's face went pale when he spotted Bob.
+
+"You're not Mary Ann," he said, stating the obvious.
+
+"That's what I was trying to tell you," Bob replied.
+
+A woman with a severe haircut and an aura of absolute authority moved into frame beside Harvey. "What is the meaning of this interruption? We've been waiting for those reports for twenty-three minutes."
+
+"Regina Heart, CEO," Pat whispered to Bob, unnecessarily.
+
+On screen, Harvey was attempting to explain the situation. "A case of mistaken identity, Ms. Heart. I thought this was Mary Ann from Analytics, but it appears to be a new hire who somehow gained access to—"
+
+"Incompetence!" Regina interrupted. "This is exactly the kind of disorganization that undermines our market position. Where is Bill Lizard? He's responsible for those reports."
+
+Bill stepped forward nervously. "Here, Ms. Heart. But the reports aren't actually due until—"
+
+"Excuses! I want those figures in five minutes or someone will be seeking employment elsewhere!"
+
+The call ended abruptly, leaving an uncomfortable silence in its wake.
+
+"This is a disaster," Bill moaned, pushing past Bob to access his frozen computer. "The system's completely locked up! All my models, my projections, my beautifully normalized data tables!"
+
+He tapped frantically at the keyboard with no response. "IT needs to undo whatever he did," Bill said, gesturing dismissively at Bob.
+
+Pat nodded to his team. "Total workstation reset. Priority level one."
+
+One of the guinea pig-like IT workers produced a device that looked like a cross between a tablet and a defibrillator. "Clear the workspace!"
+
+Everyone stepped back as they applied the device to the computer tower. There was a brief electronic whine, and then all the lights on the computer went out.
+
+"System purged," announced the IT worker. "Initiating remote backup restoration."
+
+Bill looked ready to faint. "Remote backup? But that's from yesterday! I'll lose all of today's work!"
+
+"Collateral damage," Pat said unsympathetically. "Security protocols take precedence over data preservation."
+
+As the IT team worked to restore the system, Bill turned his attention to Bob, his initial shock giving way to indignation. "Who authorized you to access my workstation? Do you have any idea what you've done? The normalization algorithms take hours to calibrate!"
+
+"I'm sorry," Bob said sincerely. "Harvey thought I was someone else, and—"
+
+"Harvey!" Bill's indignation found a new target. "Always rushing, never confirming identities! This isn't the first time his carelessness has disrupted my work."
+
+He pulled out his phone and began typing furiously. "I'm scheduling an emergency Zoom call with Harvey, Regina, and the department heads to address this security breach."
+
+Bob watched with growing alarm as Bill set up the call and people began joining, including Regina Heart and several other executives. The call was projected onto the department's main screen, visible to everyone.
+
+"As you can see," Bill was explaining, his voice growing more confident as he shifted into presentation mode, "unauthorized access to sensitive systems presents a critical vulnerability in our information security framework. This incident clearly demonstrates the need for—"
+
+The call was suddenly interrupted as Harvey joined, looking even more frantic than before.
+
+"I apologize for the confusion," Harvey began, "but we still need those Q4 projections for the meeting that is now thirty-two minutes behind schedule!"
+
+"The Q4 projections don't exist yet!" Bill retorted. "We're still compiling Q3 data!"
+
+"Then what about the reports you sent last week labeled Q4_preliminary?" Harvey demanded.
+
+"Those were templates! They contain no actual data!"
+
+As the argument escalated, Regina Heart's expression grew increasingly thunderous. Other executives on the call began side conversations, adding to the chaos. Bob stood awkwardly in the background, wondering if he could slip away unnoticed.
+
+His movement caught Regina's eye. "You!" she snapped, pointing directly at Bob through the screen. "The impostor! What department are you actually from?"
+
+Before Bob could respond, Bill interjected, "He claims to be a new hire, but he's carrying high-level access credentials. It's highly suspicious!"
+
+The call devolved into accusations and counter-accusations. Bob tried to explain himself several times but was talked over repeatedly. The executives argued about security protocols, reporting timelines, and departmental responsibilities, completely ignoring Bob's attempts to clarify the situation.
+
+In the midst of this chaos, the system restoration completed with a cheerful chime. Bill's computer rebooted, but instead of the expected desktop, it displayed a message:
+
+*"Critical system error. Unrecoverable data corruption detected. Would you like to format and reinstall? Y/N"*
+
+Bill let out a wail of despair that momentarily silenced the ongoing argument. "My models! My beautiful data models!"
+
+His anguished cry somehow cut through the Zoom call chaos. Everyone fell silent, staring at the devastated analyst.
+
+"I had three weeks of work on that system! Unreleased projections and scenario models that weren't backed up yet!" Bill's voice rose in pitch as his professional life flashed before his eyes. "The quarterly strategy depends on those models!"
+
+On screen, Regina Heart's face transformed from anger to something far more dangerous: cold calculation.
+
+"Bill," she said with unnerving calm, "are you telling me that crucial company projections were stored locally on your machine without proper backup protocols?"
+
+Bill's face went pale. "I... I was going to upload them to the secure server tonight..."
+
+"That's a direct violation of data security policy 5.7.3," Regina stated flatly. "Perhaps you need time to review our information management protocols."
+
+"No, please, I can recover the data! I just need—"
+
+"This discussion is over," Regina interrupted. "HR will contact you regarding next steps."
+
+The executives began dropping off the call one by one, leaving only Harvey, who looked both relieved that attention had shifted away from him and horrified at the unfolding career catastrophe.
+
+"Bill, I'm so sorry," Harvey began, but Bill cut the call, plunging the department into uncomfortable silence.
+
+All eyes turned to Bob, who stood frozen in the middle of the analytics department, surrounded by the IT team and a shell-shocked Bill Lizard.
+
+"I think," Bob said carefully, "I should probably go now."
+
+"Yes," Pat agreed tersely. "You should."
+
+As Bob edged toward the exit, Bill sat motionless in his chair, staring at the error message with the thousand-yard stare of someone witnessing their career implode.
+
+Bob felt terrible. "For what it's worth, I really am sorry about your data. Is there anything I can do to help?"
+
+Bill didn't respond directly, but muttered to himself, "Three weeks of modeling... gradient descent algorithms fine-tuned to perfection... validation sets hand-crafted..."
+
+Pat ushered Bob toward the door. "I'd recommend finding your way back to HR for proper orientation. And perhaps avoiding the executive floor for... well, forever."
+
+In the corridor outside the analytics department, Bob took a deep breath, trying to process everything that had happened. He'd been at Wonderland, Inc. for less than a day and had already been mistaken for someone else, crashed a critical system, and potentially cost someone their job.
+
+"I need to find my way out of here," he decided, looking up and down the hallway for exit signs or directions to reception.
+
+Instead, he saw a small placard on the opposite wall that hadn't been there before: "ORIENTATION THIS WAY" with an arrow pointing down yet another unfamiliar corridor.
+
+With few other options and a strong desire to escape the aftermath of the analytics department disaster, Bob followed the sign, hoping it would lead him back to some semblance of normalcy. What he found instead was a door labeled "IT Director - Marcus Denton" surrounded by a haze of what appeared to be vapor.
+
+Bob hesitated, hand poised to knock. After the chaos he'd just caused in one department, was it wise to approach another? But the sign had pointed this way, and perhaps an IT Director could help untangle the mess he'd found himself in.
+
+Before he could decide, the door swung open on its own, revealing a dimly lit office filled with gently swirling clouds of vapor.
+
+"Enter," said a languid voice from within, "I've been expecting you."
