@@ -220,9 +220,9 @@ With this final piece of cryptic advice, Bob left the Institutional Memory Prese
 
 The hallway was quieter than most areas of Wonderland, with fewer motivational posters and more actual informational signage. Bob found the door marked "Global Engagement Synchronicity Hub" and was about to knock when he heard multiple voices speaking in the strangely formal cadence of people on a conference call.
 
-"Can everyone hear me?"
-"If you're speaking, we can't hear you."
-"I think you're on mute."
+"Can everyone hear me?" +
+"If you're speaking, we can't hear you." +
+"I think you're on mute." +
 "Who just joined?"
 
 Bob recognized the familiar rhythms of corporate conference calls—a strange dance of technology and human awkwardness that somehow functioned as business communication. He knocked softly and entered, hoping to find a refuge from Wonderland's more extreme absurdities.

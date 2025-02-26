@@ -56,7 +56,7 @@ Bob typed in the username ("guest_user_417") and password ("P@ssw0rd!23456_TEMP_
 
 He navigated through an increasingly complex folder structure:
 
-*S: → Departments → Analytics → Teams → QADID → Projects → Quarterly → 2025 → Q4 → Reports → Executive → Final → Actually_Final → No_Really_Final → Approved*
+ S:\Departments\Analytics\Teams\QADID\Projects\Quarterly\2025\Q4\Reports\Executive\Final\Actually_Final\No_Really_Final\Approved
 
 Each subfolder contained dozens more folders with similar naming conventions. Bob's frustration grew as he clicked through the byzantine structure. When he finally found what appeared to be the right location, he discovered seven different files with nearly identical names to what Harvey had specified, each with slightly different dates and version numbers.
 
@@ -66,17 +66,21 @@ Bob waited as the files slowly opened. When they finally loaded, he was confront
 
 "This is impossible," he muttered, clicking on yet another file in hopes of finding the correct one.
 
-A warning message appeared: *"System resources critically low. Close applications to prevent data loss."*
+A warning message appeared:
+
+ System resources critically low. Close applications to prevent data loss.
 
 Bob tried to close some of the files, but the computer had become unresponsive. Each click seemed to open another application rather than closing the existing ones. Soon the taskbar was filled with open programs and dialog boxes.
 
 The fan noise increased to a concerning whine. The screen began to flicker. Bob felt panic rising as the computer struggled under his commands. It was as if the machine was growing too small for the tasks he was asking it to perform—or conversely, as if his digital presence had grown too large for the limited system.
 
-Another warning appeared: *"Unauthorized access attempts detected. Security protocols initiated."*
+Another warning appeared:
+
+ Unauthorized access attempts detected. Security protocols initiated.
 
 "No, no, no," Bob groaned, desperately clicking the cancel button. Instead of resolving the issue, this triggered a cascade of new error messages. One particularly ominous dialog box flashed red:
 
-*"SECURITY BREACH DETECTED. SYSTEM LOCKDOWN INITIATED. IT SECURITY ALERTED."*
+ SECURITY BREACH DETECTED. SYSTEM LOCKDOWN INITIATED. IT SECURITY ALERTED.
 
 The computer froze completely, displaying only the error message and a progress bar labeled "Collecting incident data for security analysis."
 
@@ -84,8 +88,8 @@ Bob sat back in the too-small chair, a sense of dread washing over him. He'd bee
 
 Suddenly, the cubicle was filled with the sound of an alarm—not a building-wide emergency alarm, but rather the distinct notification sound of multiple phones receiving the same alert simultaneously. From beyond the cubicle walls came the sound of rapid movement and urgent voices.
 
-"Section 12 breach!"
-"Unauthorized access in QADID!"
+"Section 12 breach!" +
+"Unauthorized access in QADID!" +
 "Workstation 27B reporting anomalous activity!"
 
 Bob peeked over the cubicle wall to see several people in matching polo shirts with "IT RESPONSE TEAM" printed on the back hurrying in his direction. They moved with the coordinated precision of a SWAT team, each carrying tablets and equipment bags.
@@ -194,7 +198,7 @@ The call devolved into accusations and counter-accusations. Bob tried to explain
 
 In the midst of this chaos, the system restoration completed with a cheerful chime. Bill's computer rebooted, but instead of the expected desktop, it displayed a message:
 
-*"Critical system error. Unrecoverable data corruption detected. Would you like to format and reinstall? Y/N"*
+ Critical system error. Unrecoverable data corruption detected. Would you like to format and reinstall? Y/N
 
 Bill let out a wail of despair that momentarily silenced the ongoing argument. "My models! My beautiful data models!"
 

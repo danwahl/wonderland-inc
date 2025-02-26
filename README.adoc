@@ -11,11 +11,11 @@ If you run the following you _may_ actually get HTML, Epub, and PDF output files
 $ bundle install
 $ bundle exec rake book:build
 Converting to HTML...
- -- HTML output at ce-handbook.html
+ -- HTML output at wonderland-inc.html
 Converting to EPub...
- -- Epub output at ce-handbook.epub
+ -- Epub output at wonderland-inc.epub
 Converting to PDF...
- -- PDF output at ce-handbook.pdf
+ -- PDF output at wonderland-inc.pdf
 ----
 
 You can generate just one of the supported formats (HTML, EPUB, or PDF).

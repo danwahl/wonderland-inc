@@ -276,8 +276,8 @@ Bob nodded his thanks and headed toward the elevator, Morris's notebook of corpo
 
 As the elevator doors closed, he caught a final glimpse of the atrium. The judge's bench was being quickly disassembled, while employees reluctantly gathered for the resumption of mandatory team building. Above it all, the large screen now displayed a single message:
 
-"INTELLECTUAL PROPERTY ADJUDICATION: TEMPORARILY SUSPENDED.
-MANDATORY MORALE EVENT: PARTICIPATION NON-NEGOTIABLE.
+"INTELLECTUAL PROPERTY ADJUDICATION: TEMPORARILY SUSPENDED. +
+MANDATORY MORALE EVENT: PARTICIPATION NON-NEGOTIABLE. +
 REGULAR CORPORATE ACTIVITIES: CONTINUE UNTIL FURTHER NOTICE."
 
 It was, Bob reflected, the perfect summary of his Wonderland experience thus far: chaos masquerading as order, drama disguised as process, and nowhere, absolutely nowhere, a hint of actual productive work being done.

@@ -104,11 +104,13 @@ At the end of the hall, he noticed a table he hadn't seen before. On it sat a sm
 
 Bob approached cautiously. The keycard had his name and photo on it, though he had no memory of having this picture taken. The login screen prompted:
 
-*WELCOME TO WONDERLAND, INC.*
-*WHERE NOTHING IS IMPOSSIBLE BECAUSE EVERYTHING IS PERMITTED*
+....
+WELCOME TO WONDERLAND, INC.
+WHERE NOTHING IS IMPOSSIBLE BECAUSE EVERYTHING IS PERMITTED
 
-*USERNAME: BHenderson*
-*PASSWORD: ▓▓▓▓▓▓▓▓▓▓*
+USERNAME: BHenderson
+PASSWORD: ▓▓▓▓▓▓▓▓▓▓
+....
 
 Bob stared at the screen, then at the dark hallway with its numerous doors, then back at what appeared to be his company ID.
 

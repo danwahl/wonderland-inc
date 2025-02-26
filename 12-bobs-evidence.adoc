@@ -152,8 +152,8 @@ As the day progressed, however, Bob couldn't shake the lingering effects of his 
 
 During lunch, he overheard fragments of workplace conversations that suddenly seemed loaded with potential Wonderland tendencies:
 
-"Let's circle back on that after the stakeholder review..."
-"We should align our messaging across platforms..."
+"Let's circle back on that after the stakeholder review..." +
+"We should align our messaging across platforms..." +
 "The executive dashboard needs more visual impact..."
 
 None of these were unusual in a corporate environment, but now Bob heard them differently—as warning signs, early indicators of potential corporate absurdity that could, if left unchecked, eventually evolve into full Wonderland dysfunction.

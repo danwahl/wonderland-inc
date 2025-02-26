@@ -6,10 +6,10 @@ Most striking, however, were the people. Eight employees sat around the table we
 
 None of them acknowledged Bob's entrance. They were all speaking in the peculiar cadence of conference call participants—a strange mixture of exaggerated politeness, awkward pauses, and occasional bursts of forced enthusiasm.
 
-"Sydney, are you still on the line?"
-"Can everyone see slide fourteen?"
-"Let's circle back to Emmanuel's point about synergistic integration vectors."
-"I think someone has background noise. Can everyone please mute?"
+"Sydney, are you still on the line?" +
+"Can everyone see slide fourteen?" +
+"Let's circle back to Emmanuel's point about synergistic integration vectors." +
+"I think someone has background noise. Can everyone please mute?" +
 
 At the head of the table sat a thin, intense woman with a Bluetooth device in each ear and another around her neck. She alone noticed Bob and gestured for him to approach, all while continuing to speak into one of her headsets.
 
@@ -36,19 +36,22 @@ She handed him a headset and a laminated card titled "Conference Call Protocols 
 Bob examined the card, which contained entries like:
 
 *Opening Rituals*
-- "Can everyone hear me?" (Regardless of whether they can hear you)
-- "Let me just share my screen..." (Minimum 30-second fumbling delay required)
-- "Is [person who hasn't spoken] still on the call?" (Asked at least twice)
+
+* "Can everyone hear me?" (Regardless of whether they can hear you) +
+* "Let me just share my screen..." (Minimum 30-second fumbling delay required) +
+* "Is [person who hasn't spoken] still on the call?" (Asked at least twice) +
 
 *Mid-Call Maneuvers*
-- "If I could just jump in here..." (Interrupt without appearing rude)
-- "Let's take that offline." (Avoid addressing difficult questions)
-- "I'm not seeing everyone's video." (Buy time when asked a question you can't answer)
+
+* "If I could just jump in here..." (Interrupt without appearing rude) +
+* "Let's take that offline." (Avoid addressing difficult questions) +
+* "I'm not seeing everyone's video." (Buy time when asked a question you can't answer) +
 
 *Emergency Exits*
-- "I think we're having connection issues." (Universal escape clause)
-- "I need to hard stop at [time 5 minutes from now]." (Rapid extraction protocol)
-- "Perhaps we need to involve [department not on call]." (Issue deflection technique)
+
+* "I think we're having connection issues." (Universal escape clause) +
+* "I need to hard stop at [time 5 minutes from now]." (Rapid extraction protocol) +
+* "Perhaps we need to involve [department not on call]." (Issue deflection technique) +
 
 As Bob was reviewing these phrases, the room suddenly transformed. The individual conversations ceased simultaneously, and all participants sat straighter in their chairs. Sylvia pressed a series of buttons on her console, and a multiscreen display at the front of the room illuminated to show video feeds from at least twelve different locations around the world.
 
@@ -56,9 +59,9 @@ As Bob was reviewing these phrases, the room suddenly transformed. The individua
 
 "Tokyo present," came a response from the screens.
 
-"Singapore?"
-"Singapore present."
-"Sydney?"
+"Singapore?" +
+"Singapore present." +
+"Sydney?" +
 "Sydney present and aligned."
 
 The roll call continued through time zones moving westward around the globe. Bob watched in fascination as the team operated with military precision, nothing like the chaotic corporate behavior he'd witnessed elsewhere at Wonderland.
@@ -73,9 +76,9 @@ When all locations had checked in, Sylvia nodded to the woman on her right, who 
 
 Sylvia dimmed the lights and pressed another button on her console. A gentle electronic melody began playing—a corporate version of hold music with an actual beat. The team began moving in a precise pattern around the table, each person stopping at different positions to address specific screens.
 
-"Singapore, do you copy our transmission?" called one member.
-"Transmission confirmed, London," came the response.
-"Would you join our data exchange?" asked London.
+"Singapore, do you copy our transmission?" called one member. +
+"Transmission confirmed, London," came the response. +
+"Would you join our data exchange?" asked London. +
 "We would be pleased to participate," replied Singapore.
 
 The team continued their choreographed movement while reciting what seemed to be scripted exchanges with the international offices. Bob tried to follow along, stepping where others stepped, but quickly became disoriented by the complexity of the pattern.
@@ -150,19 +153,19 @@ Finally, Sylvia announced, "Approaching sequence conclusion. Prepare for Final G
 
 The team formed a perfect circle around the table, each facing outward to a different screen. On Sylvia's mark, each person recited their assigned line:
 
-"Tokyo confirms alignment with global directives."
-"Singapore acknowledges unified strategic intent."
+"Tokyo confirms alignment with global directives." +
+"Singapore acknowledges unified strategic intent." +
 "Sydney validates cross-regional synchronization."
 
 When Bob's turn came, he read from his script: "EMEA affirms commitment to collective objectives."
 
 The ritual concluded with Sylvia leading what could only be described as a corporate chant, with each global office joining in sequence:
 
-"Will you, will you, will you, will you align with the plan?
-Will you, will you, will you, will you meet our demands?
-The quarterly goals are waiting on the dashboard to view,
-While distant offices labor in time zones old and new.
-Will you, won't you, will you, won't you execute the strategy?
+"Will you, will you, will you, will you align with the plan? +
+Will you, will you, will you, will you meet our demands? +
+The quarterly goals are waiting on the dashboard to view, +
+While distant offices labor in time zones old and new. +
+Will you, won't you, will you, won't you execute the strategy? +
 Will you, won't you, will you, won't you achieve the KPIs?"
 
 Each office responded in turn with the same bizarre chorus, creating a global round of corporate singing that was simultaneously ridiculous and hypnotic. Bob found himself joining in by the final verse, caught up in the strange energy of the ritual.
