@@ -13,6 +13,67 @@ _Wonderland, Inc._ is a satirical corporate reimagining of Lewis Carroll's "Alic
 * *Contemporary*: Set in a modern tech company with current technology, buzzwords, and corporate trends
 * *Surreal progression*: The story should start relatively normal and grow increasingly bizarre
 
+== TIMELINE FRAMEWORK
+
+*Bob's First Day Timeline*
+* 8:30 AM - Bob arrives at Wonderland, Inc. for his first day
+* 9:00 AM - After waiting, Bob follows Harvey down the rabbit hole/elevator
+* 10:30 AM - Pool of Corporate Jargon incident occurs
+* 11:30 AM - Team-building exercise and Malcolm's email tale
+* 1:00 PM - Bob is mistaken for Mary Ann by Harvey
+* 2:30 PM - Bob meets with Marcus Denton (IT Director)
+* 3:30 PM - Bob encounters Frankie Duchess in Product Management
+* 4:30 PM - Bob stumbles into Marketing's never-ending meeting (frozen at 5:00 PM)
+* 5:00 PM - Regina's performance review on the roof
+* 6:00 PM - Bob meets with Morris and Gregory
+* 7:00 PM - Bob observes the Conference Call Quadrille
+* 7:30 PM - The intellectual property trial
+* 8:30 PM - Bob's final confrontation and "awakening"
+
+*Character Items & Continuity Tracking*
+* Bob's Badge: Initially doesn't have one; receives a "Transformation Catalyst" badge in Ch.1; should be consistently referenced throughout
+* Harvey's Badge: Dropped in Ch.1; Bob picks it up; should be returned or addressed by Ch.4
+* Bob's Belongings: Starts with a messenger bag; contents (phone, notebook) should be tracked
+* The USB Drive: Given by Marcus in Ch.5; remains important through the end
+
+== SURREALISM SCALE
+
+To maintain the "surreal but not unreal" tone, use this scale for guidance:
+
+*Acceptable Surreal Elements:*
+* Spatial inconsistencies (rooms changing size, corridors appearing/disappearing)
+* Time distortions (clocks stuck at 5:00, meetings that never end)
+* Corporate processes taken to absurd extremes (the performance review, the trial)
+* Metaphorical transformations (becoming "corporate animals" in behavior and thinking)
+
+*Elements to Avoid or Tone Down:*
+* Literal animal transformations (no actual animals or physical hybrid creatures)
+* Physically impossible events (no floating or shrinking potions)
+* Breaking the laws of physics beyond spatial/time distortions
+* Dream-like sequences that completely abandon logic (until the final chapter)
+
+*The Corporate Surrealism Rule:* All surreal elements should function as metaphors for real corporate absurdities, just taken to extreme conclusions.
+
+== ENHANCED NARRATIVE ARC
+
+*Core Conflict:* Bob's struggle is not just with the absurdity of Wonderland, Inc., but specifically with the company's increasingly dysfunctional relationship with actual productivity and value creation.
+
+*Primary Antagonist:* Regina Heart represents the corporate obsession with metrics, control, and appearances over real work. Her "innovation journal" and the IP theft accusation are connected to the central Dashboard project.
+
+*The Dashboard Project:* A specific, recurring product/project that connects the chapters:
+* The "Stakeholder Sentiment Visualization Dashboard" is being partially rebranded as "AI-Enhanced" as Wonderland's flagship project
+* Each department Bob encounters is working on some aspect of this dashboard
+* The dashboard becomes increasingly bloated and dysfunctional as it passes through each department
+* The AI rebranding effort provides occasional humor and commentary on current trends
+* The IP theft trial centers on who truly conceived aspects of the dashboard concept
+* Bob's final revelation shows that the dashboard has been in development for years with no actual progress
+
+*Character Motivations:*
+* Bob: Initially seeks to understand his role, gradually becomes determined to expose the dysfunction
+* Regina: Wants to maintain control and take credit for all innovation, including the AI enhancement concept
+* Harvey: Desperately trying to keep the dashboard project on schedule despite chaos
+* Department heads: Each trying to add their mark to the dashboard while avoiding blame for delays
+
 == DETAILED CHARACTER GUIDE
 
 === MAIN CHARACTER
@@ -31,10 +92,11 @@ _Wonderland, Inc._ is a satirical corporate reimagining of Lewis Carroll's "Alic
 *Harvey White (Executive Assistant)*
 
 * White Rabbit equivalent, always running late
-* Appearance: Thin, pale, white hair, always checking smartwatch, carries multiple devices
+* Appearance: Thin, pale, white hair, always checking multiple devices (smartwatch, phone, tablet, planner)
 * Personality: Anxious, time-obsessed, important by association
 * Catchphrase: "Oh dear! I'm terribly late for a very important meeting!"
 * Role: Inadvertently leads Bob deeper into the company's strange culture
+* Consistency note: Always referred to as "Harvey White" or "Harvey," never just "White"
 
 *Marcus Denton (IT Director)*
 
@@ -55,7 +117,7 @@ _Wonderland, Inc._ is a satirical corporate reimagining of Lewis Carroll's "Alic
 *Timothy Hatter (Marketing Director)*
 
 * Mad Hatter equivalent, master of meaningless buzzwords
-* Appearance: Eccentric suits, unusual ties, wild hair, always wearing a Bluetooth headset
+* Appearance: Eccentric suits, unusual ties, wild hair, always wearing multiple Bluetooth headsets
 * Personality: Energetic, scatter-brained, obsessed with branding and "innovative disruption"
 * Dialogue style: Speaks in mixed metaphors and corporate buzzwords
 * Role: Embodies the absurdity of corporate marketing speak
@@ -63,7 +125,7 @@ _Wonderland, Inc._ is a satirical corporate reimagining of Lewis Carroll's "Alic
 *Marcia Hare (PR Manager)*
 
 * March Hare equivalent, always in crisis mode
-* Appearance: Frazzled, constantly clutching phone, twitchy
+* Appearance: Frazzled, constantly clutching multiple phones, twitchy
 * Personality: Nervous, reactive, paranoid about public perception
 * Role: Works closely with Hatter, always responding to perceived PR emergencies
 
@@ -73,11 +135,12 @@ _Wonderland, Inc._ is a satirical corporate reimagining of Lewis Carroll's "Alic
 * Appearance: Young, perpetually exhausted, always has coffee
 * Personality: Sleepy, occasionally brilliant, ignored by others
 * Role: Despite being overlooked, occasionally offers the most sensible solutions
+* Note: No relation to Malcolm Mouse (from Accounting)
 
 *Regina Heart (CEO)*
 
 * Queen of Hearts equivalent, mercurial executive
-* Appearance: Power suits, perfectly styled, intimidating presence
+* Appearance: Power suits in crimson, perfectly styled, intimidating presence
 * Personality: Demanding, temperamental, convinced of her own genius
 * Catchphrase: "You're fired!" (instead of "Off with their heads!")
 * Role: The ultimate authority and source of fear at Wonderland, Inc.
@@ -94,9 +157,28 @@ _Wonderland, Inc._ is a satirical corporate reimagining of Lewis Carroll's "Alic
 * Knave of Hearts equivalent, accused of stealing ideas
 * Appearance: Slick, modern professional style, expensive watches
 * Personality: Ambitious, strategic, politically savvy
-* Role: Central figure in the climactic "trial" over stolen product ideas
+* Role: Central figure in the climactic "trial" over stolen Dashboard ideas
 
 === SECONDARY CHARACTERS
+
+*Malcolm Mouse (Accounting)*
+
+* Appearance: Thin man with round glasses and a soaked dress shirt
+* Personality: Meticulous, process-oriented, document-focused
+* Role: Introduces Bob to Wonderland's bizarre corporate culture in Ch.2
+* Note: Distinct character from Mary Ann (Analytics)
+
+*Mary Ann (Analytics Department)*
+
+* Appearance: Not clearly described, referenced but not seen
+* Role: Employee that Harvey confuses Bob with in Ch.4
+* Note: Distinct character from Malcolm Mouse (from Accounting)
+
+*Diana Duck (Legal Department)*
+
+* Appearance: Woman in a tailored but soaked suit
+* Personality: Brisk, procedure-focused, litigious
+* Role: Represents legal bureaucracy and overcomplication
 
 *Tweed & Dee (HR Representatives)*
 
@@ -118,6 +200,7 @@ _Wonderland, Inc._ is a satirical corporate reimagining of Lewis Carroll's "Alic
 * Appearance: Outdated business attire, family photos covering cubicle
 * Personality: Melancholy, reminiscent, resistant to change
 * Role: Provides history and context about the company while lamenting current direction
+* Note: May mention the current AI rebranding as the latest in a series of empty rebrandings over the years
 
 *Gregory Griffin (Head of Sales)*
 
@@ -143,16 +226,18 @@ _Wonderland, Inc._ is a satirical corporate reimagining of Lewis Carroll's "Alic
 
 * Bob arrives for his first day, slightly nervous but excited about joining the innovative tech company
 * The receptionist makes Bob wait an unusually long time, saying his onboarding manager is running late
-* While waiting, Bob notices Harvey White rush through the lobby, checking multiple devices and muttering about being late
+* While waiting, Bob notices Harvey White rush through the lobby, checking multiple devices (phone, watch, tablet, planner) and muttering about being late
 * Harvey drops his company badge, which Bob picks up, intending to return it
 * Following Harvey to return the badge, Bob finds himself in increasingly strange parts of the building
-* Security doors mysteriously open for him despite not having his own badge yet
+* Security doors mysteriously open for him despite not having his own badge yet (using Harvey's badge)
 * Bob follows Harvey into what appears to be a service elevator
 * The elevator begins a strangely long descent, with unusual floor indicators (Floor L, Floor O, Floor G, etc.)
 * Bob sees bizarre items through the elevator's glass walls: giant coffee mugs, enormous staplers, life-sized cubicle dioramas
 * The elevator suddenly drops rapidly, disorienting Bob
 * When it finally stops and opens, Bob finds himself in a strange corridor with doors of various sizes
 * Each door has unusual labels: "Rapid Growth Team," "Downsizing Department," "Lateral Movement Division"
+* Bob finds a laptop with his name on the login screen and a badge labeled "Transformation Catalyst"
+* A banner or sign might subtly mention the company's flagship "Stakeholder Sentiment Visualization Dashboard"
 
 *Key Elements:*
 
@@ -175,14 +260,15 @@ _Wonderland, Inc._ is a satirical corporate reimagining of Lewis Carroll's "Alic
 * Inside is a cramped room with outdated technology and a PowerPoint presentation running on loop
 * As Bob watches the presentation, he's bombarded with incomprehensible corporate jargon
 * The room seems to grow smaller (or Bob feels larger) as the orientation continues
-* Bob becomes overwhelmed and accidentally knocks over a massive coffee dispenser
+* Bob becomes overwhelmed and accidentally knocks over a massive coffee dispenser (when swiping his new badge)
 * The coffee spills everywhere, forming a large pool in the sunken meeting area
-* Soon other confused-looking new hires appear, all trapped in the coffee pool
+* Soon other confused-looking employees appear, all trapped in the coffee pool
 * Among them is Malcolm Mouse from Accounting, who suggests they have an "alignment meeting" to solve the problem
-* Various employees suggest contradictory solutions using excessive jargon
+* Various employees suggest contradictory solutions using excessive jargon, including Diana Duck from Legal
 * Suddenly the fire sprinklers activate, creating more liquid and confusion
-* A Duck from Legal, a Dodo from Risk Management, and an Eaglet from Design join the chaos
+* Douglas Dodo from Risk Management and Elizabeth Eaglet from Design join the chaos
 * Everyone argues about proper protocols and procedures while getting nowhere
+* The time should be clearly established (around 10:30 AM) as the coffee incident escalates
 
 *Key Elements:*
 
@@ -191,6 +277,7 @@ _Wonderland, Inc._ is a satirical corporate reimagining of Lewis Carroll's "Alic
 * The pool of coffee (rather than tears) creates the same chaotic gathering
 * Introduce secondary characters from different departments who will appear later
 * Show the company's dysfunctional problem-solving approach
+* Connect the coffee flood to Bob's new badge - swiping it activates the machine unexpectedly
 
 *Callbacks to Alice:* Instead of Alice's tears, we have spilled coffee. The pool gathering introduces the same characters but in corporate roles, all with ineffective approaches to solving their predicament.
 
@@ -200,7 +287,7 @@ _Wonderland, Inc._ is a satirical corporate reimagining of Lewis Carroll's "Alic
 
 *Plot Points:*
 
-* Douglas Dodo (Head of People Operations) declares they need a "Caucus-Race" team building exercise to dry off from the coffee incident
+* Douglas Dodo (Head of Risk Management) declares they need a "Synergy Sprint" team building exercise to dry off from the coffee incident
 * Everyone is forced to participate in a pointless circular activity where they pass documents around with no clear purpose
 * Rules keep changing as they go, with Douglas announcing "pivots" to the exercise
 * No matter what anyone does, they can't seem to finish the exercise
@@ -213,6 +300,7 @@ _Wonderland, Inc._ is a satirical corporate reimagining of Lewis Carroll's "Alic
 * The story is interrupted constantly by reply-alls and side conversations
 * Bob misunderstands key points, thinking Malcolm is describing one thing when he means another
 * Malcolm gets offended when Bob doesn't properly appreciate his tale/tail of corporate climbing
+* Clear time reference should indicate it's around noon when they finish
 
 *Key Elements:*
 
@@ -220,8 +308,9 @@ _Wonderland, Inc._ is a satirical corporate reimagining of Lewis Carroll's "Alic
 * The visual humor of the email thread as a "tail"
 * The misunderstandings that come from corporate communication
 * The absurdity of rewards that have no value
+* Malcolm's tale might briefly mention documentation of past iterations of the Dashboard project
 
-*Callbacks to Alice:* The Caucus-Race becomes a team-building exercise; the Mouse's tale becomes an email thread "tail" that's just as confusing and pointless.
+*Callbacks to Alice:* The Caucus-Race becomes the "Synergy Sprint" team-building exercise; the Mouse's tale becomes an email thread "tail" that's just as confusing and pointless.
 
 === Chapter 4: The Executive Assistant Sends in a Direct Report
 
@@ -230,15 +319,16 @@ _Wonderland, Inc._ is a satirical corporate reimagining of Lewis Carroll's "Alic
 *Plot Points:*
 
 * Harvey reappears, horrified to find Bob still wandering unauthorized
-* Assuming Bob is a new contractor, Harvey sends him to retrieve analytical reports
-* Harvey gives Bob a keycard that gives him access to more areas
+* Bob returns Harvey's badge, but Harvey mistakes Bob for "Mary Ann" from the Analytics Department
+* Harvey sends him to retrieve analytical reports related to the Dashboard project
+* Harvey gives Bob a temporary keycard that gives him access to more areas
 * Bob passes through increasingly strange department areas with weird specialties
 * He eventually arrives at a tiny cubicle belonging to Bill Lizard from Data Analysis
 * The cubicle is too small for Bob to comfortably enter
-* While attempting to access the computer, Bob accidentally opens too many programs
+* While attempting to access the computer, Bob accidentally opens too many Dashboard-related files
 * The computer slows down, and metaphorically Bob feels "too big" for the space
 * The computer crashes spectacularly, sending an alert to IT Security
-* A team of IT responders (guinea pigs) arrive to address the security breach
+* A team of IT responders arrive to address the security breach
 * Bill returns and is horrified to find Bob at his workstation
 * During a chaotic Zoom call, Bill attempts to explain while being interrogated by executives
 * Bob accidentally causes Bill to be "ejected" from the meeting and possibly fired
@@ -250,6 +340,8 @@ _Wonderland, Inc._ is a satirical corporate reimagining of Lewis Carroll's "Alic
 * The metaphor of being "too big" for a role or space
 * The chaos and blame that ensues when technology fails
 * The rapid scapegoating that happens in corporate culture
+* Bob should return Harvey's badge but receive a temporary access card instead
+* All the data relates specifically to the Dashboard project
 
 *Callbacks to Alice:* Instead of growing too large from eating a cake, Bob "grows too large" by overwhelming the computer system. Bill Lizard still gets launched out, but from a Zoom meeting rather than a chimney.
 
@@ -280,6 +372,7 @@ _Wonderland, Inc._ is a satirical corporate reimagining of Lewis Carroll's "Alic
 * The philosophical questions about identity relate to the digital age
 * The cryptic, unhelpful nature of technical support
 * The choice between USB drives parallels Alice's mushroom sides
+* Marcus should refer to Bob's role as involving "pattern recognition and systemic anomaly identification" - foreshadowing his eventual realization about the company
 
 *Callbacks to Alice:* The vaping creates the same smoke clouds as the Caterpillar's hookah. The philosophical identity questions remain, but now relate to digital identity. The USB drives serve the role of the mushroom sides.
 
@@ -290,47 +383,51 @@ _Wonderland, Inc._ is a satirical corporate reimagining of Lewis Carroll's "Alic
 *Plot Points:*
 
 * Using his chosen USB drive, Bob accesses a new area of the building
-* He encounters Frankie Duchess (CFO) aggressively micromanaging a junior product manager
-* The product manager is trying to present a new idea while being constantly interrupted
-* The office kitchen nearby has several people arguing over the communal soup
+* He encounters Frankie Duchess (CFO) aggressively micromanaging Peter, a junior product manager
+* Peter is trying to present Dashboard interface designs while being constantly interrupted
+* The office kitchen nearby has several people arguing over features to add to the Dashboard
 * Someone keeps adding excessive "enhancements" to the product, making it unusable
 * Cheri Fisher (Office Manager) appears, grinning from a corner, offering cryptic comments
-* The CFO shoves a "financial model" at Bob to analyze
+* The CFO shoves a financial model for the Dashboard project at Bob to analyze
 * After several absurd interactions, the CFO gets called to an emergency budget meeting
-* Left alone with the product manager, Bob watches in horror as the manager transforms
-* The transformation is metaphorical - the manager begins speaking only in metrics and KPIs
-* By the end, the manager has become a "corporate pig," focused only on vanity metrics
+* Left alone with Peter, Bob watches in horror as the manager transforms
+* The transformation is metaphorical - Peter begins speaking only in metrics and KPIs
+* By the end, Peter has become a "corporate pig," focused only on vanity metrics
 * Cheri reappears to comment on the transformation, saying "They all turn into metrics-chasers eventually"
 * Bob tries to escape but keeps finding himself back in the same area
+* The time should be clearly established (around 3:30 PM)
+* This could be a natural place to include a reference to the Dashboard being rebranded as "AI-enhanced"
 
 *Key Elements:*
 
 * The absurdity of micromanagement and its effects on creativity
 * The transformation of people under corporate pressure
-* The excess of "ingredients" (features) ruining a good product
+* The excess of features ruining a good product
 * The cryptic but knowing presence of Cheri as the company wise-person
+* Peter might explain that the Dashboard was once elegant but has become increasingly bloated
 
 *Callbacks to Alice:* The Duchess's kitchen becomes the company kitchen with too many cooks. The pepper becomes corporate pressure. The baby-to-pig transformation becomes a human-to-metrics-obsessed transformation.
 
 === Chapter 7: A Pointless Meeting Party
 
-*Setting:* A conference room with a tea station and pastries that no one touches
+*Setting:* A Marketing conference room with a tea station and pastries that no one touches
 
 *Plot Points:*
 
-* Bob discovers a meeting in progress that has clearly been going for hours
+* Bob discovers a marketing meeting about Dashboard messaging that has clearly been going for hours
 * Timothy Hatter (Marketing Director), Marcia Hare (PR Manager), and Dora Mouse (Intern) are engaged in a circular discussion
+* Bob notices all clocks in the room are frozen at exactly 5:00 PM (quitting time that never comes)
 * The meeting has no agenda, no end time, and no clear purpose
 * Bob is invited to join, as they've been "waiting for input from a new perspective"
 * Every time Bob thinks they're reaching a conclusion, someone changes the subject
-* All the clocks in the room are stuck at 5:00 PM (quitting time that never comes)
-* Timothy explains they broke "Time" by trying to move a deadline, and now they're in perpetual meeting purgatory
+* Timothy explains they broke "Time" by trying to move a Dashboard deadline, and now they're in perpetual meeting purgatory
 * Every few minutes they all get up and move one seat over, reading different documents
-* Dora falls asleep frequently but jolts awake to offer surprisingly lucid insights that are ignored
+* Dora falls asleep frequently but jolts awake to offer surprisingly lucid insights about the Dashboard that are ignored
 * They speak in riddles, buzzwords, and mixed metaphors that almost but don't quite make sense
 * PowerPoint slides with no clear meaning keep advancing on a screen
 * Bob tries to excuse himself but gets pulled into participatory exercises
 * He eventually escapes when the group becomes distracted by a "synergy brainstorm"
+* Bob checks his watch, which still shows normal time progression despite the frozen room clocks
 
 *Key Elements:*
 
@@ -338,6 +435,7 @@ _Wonderland, Inc._ is a satirical corporate reimagining of Lewis Carroll's "Alic
 * The circular, pointless nature of many business discussions
 * The absurdity of corporate language that sounds meaningful but isn't
 * The illusion of progress through movement (changing seats) with no actual advancement
+* All discussion should center around marketing the Dashboard project
 
 *Callbacks to Alice:* The tea party becomes a meeting with refreshments no one touches. The broken watch becomes stuck office clocks. The rotation around the table remains but as a corporate musical chairs.
 
@@ -351,7 +449,7 @@ _Wonderland, Inc._ is a satirical corporate reimagining of Lewis Carroll's "Alic
 * Regina Heart (CEO) is presiding over a bizarre performance game using KPI reports shaped like flamingos
 * Employees are attempting to hit budget targets (hedgehogs) through shifting goal posts
 * The "playing field" keeps changing as Regina rewrites the objectives mid-game
-* Bob encounters Harvey again, who is terrified of presenting his department's results
+* Bob encounters Harvey again, who is terrified of presenting the Dashboard project timeline
 * The CEO keeps shouting "You're fired!" at various employees who miss their targets
 * Karl Heart (COO) follows behind, discretely telling people to ignore the firing threats
 * Bob is unexpectedly called to participate despite being new
@@ -359,7 +457,8 @@ _Wonderland, Inc._ is a satirical corporate reimagining of Lewis Carroll's "Alic
 * This draws Regina's attention to him, which others warn is dangerous
 * Cheri appears briefly, offering Bob cryptic advice about how to handle the CEO
 * The review devolves into chaos as the targets become impossible to hit
-* Regina becomes increasingly angry, declaring the entire quarter a failure
+* Regina becomes increasingly angry, declaring the entire quarter and Dashboard progress a failure
+* The time should be established (around 5:00 PM despite Bob's journey through the 5:00 PM frozen meeting)
 
 *Key Elements:*
 
@@ -367,6 +466,7 @@ _Wonderland, Inc._ is a satirical corporate reimagining of Lewis Carroll's "Alic
 * The arbitrary nature of corporate success and failure
 * The fear culture created by volatile leadership
 * The disconnect between executive demands and operational reality
+* The Dashboard project should be a central focus of Regina's criticism
 
 *Callbacks to Alice:* The croquet game becomes a performance review with the same impossible rules and tyrant overseer. The flamingos and hedgehogs become metaphorical business tools that don't cooperate.
 
@@ -388,6 +488,8 @@ _Wonderland, Inc._ is a satirical corporate reimagining of Lewis Carroll's "Alic
 * Morris grows increasingly melancholy about how the company has changed
 * He shows Bob old company artifacts: the original mission statement, first product designs, early culture documents
 * The story reveals how Wonderland, Inc. began with idealistic goals that became corrupted
+* Morris shares that the Dashboard project has been in development for over seven years
+* Morris briefly mentions this is the latest in a series of rebrandings (dot-com, cloud, blockchain, now AI)
 * Morris keeps saying his career is "coming to a close" with increasingly dramatic sighs
 * Bob learns that Morris has been "coming to a close" for years but never actually retires
 * Throughout the story, Bob begins to piece together the true nature of Wonderland, Inc.'s business
@@ -398,6 +500,7 @@ _Wonderland, Inc._ is a satirical corporate reimagining of Lewis Carroll's "Alic
 * The absurd corporate training programs that teach questionable skills
 * The corruption of idealistic business goals over time
 * The melodrama of longtime employees who feel displaced by change
+* Morris should share the original, simple concept for the Dashboard before it was complicated by years of "improvements"
 
 *Callbacks to Alice:* The Mock Turtle's school becomes Morris's corporate training. The melancholic tone remains the same. The nonsensical subjects are business-themed rather than academic.
 
@@ -407,7 +510,7 @@ _Wonderland, Inc._ is a satirical corporate reimagining of Lewis Carroll's "Alic
 
 *Plot Points:*
 
-* Morris and Gregory invite Bob to observe a global conference call
+* Morris and Gregory invite Bob to observe a global conference call about the Dashboard's international rollout
 * They explain the intricate "dance" of properly navigating remote meetings
 * Various international offices join the call, each with their own communication quirks
 * Bob watches as participants perform elaborate verbal rituals:
@@ -420,7 +523,7 @@ _Wonderland, Inc._ is a satirical corporate reimagining of Lewis Carroll's "Alic
 * Gregory demonstrates how to "take control" of the call through specific techniques
 * Bob is suddenly called upon to contribute, creating panic
 * He fumbles through an improvised response that is met with bizarre approval
-* The call devolves into chaos when someone can't find the "share screen" button
+* The call devolves into chaos when someone can't find the "share screen" button for the Dashboard demo
 * Throughout the call, participants speak in a strange mix of corporate jargon and international business English
 * The call ends with nothing resolved but everyone pretending progress was made
 
@@ -430,6 +533,7 @@ _Wonderland, Inc._ is a satirical corporate reimagining of Lewis Carroll's "Alic
 * The pretense of productivity amid obvious chaos
 * The strange language that develops in international business
 * The performance aspect of corporate communication
+* The call should specifically be about international implementation of the Dashboard project
 
 *Callbacks to Alice:* The Lobster Quadrille becomes the Conference Call Quadrille - both are elaborate dances with incomprehensible rules. The sea creatures become international offices. The dance instructions become conference call etiquette.
 
@@ -440,13 +544,14 @@ _Wonderland, Inc._ is a satirical corporate reimagining of Lewis Carroll's "Alic
 *Plot Points:*
 
 * An emergency all-hands meeting is called over an intellectual property theft
-* Regina Heart (CEO) accuses Victor "Knave" Hartman (VP of Product) of stealing her product ideas
+* Regina Heart (CEO) accuses Victor "Knave" Hartman (VP of Product) of stealing her Dashboard concept
+* Part of the accusation involves who conceived the "AI enhancement" to the Dashboard
 * The boardroom is arranged like a courtroom, with executives as the jury
 * Harvey acts as a herald, announcing the proceedings with excessive formality
 * Bob is randomly selected for the "jury" despite being a new employee
 * Evidence is presented in absurd formats - email threads, napkin sketches, overheard conversations
 * Each witness testifies with contradictory information:
-** Timothy Hatter claims he conceived the idea during a "disruptive ideation session"
+** Timothy Hatter claims he conceived the Dashboard during a "disruptive ideation session"
 ** Marcia Hare insists the concept came from "market intelligence"
 ** The intern, Dora, who actually created the prototype, is ignored completely
 * Regina keeps interrupting with "Objection! Irrelevant!" for logical points
@@ -454,6 +559,8 @@ _Wonderland, Inc._ is a satirical corporate reimagining of Lewis Carroll's "Alic
 * The "evidence" becomes increasingly absurd and irrelevant
 * Bob begins to notice that all the supposedly stolen ideas are actually terrible
 * Victor defends himself with equally nonsensical arguments and counteraccusations
+* In a surprise twist, Dora wakes up and reveals that the Dashboard concept originated in an intern project months before either Regina or Victor claim to have conceived it
+* This revelation throws the trial into chaos
 
 *Key Elements:*
 
@@ -461,10 +568,12 @@ _Wonderland, Inc._ is a satirical corporate reimagining of Lewis Carroll's "Alic
 * The absurdity of innovation attribution
 * The court-like atmosphere of executive decision-making
 * The ignored contributions of lower-level employees
+* The Dashboard should be revealed as a simple concept that has been overcomplicated by executive meddling
+* The AI rebranding element should be part of the intellectual property dispute
 
 *Callbacks to Alice:* The trial for the tarts becomes a trial for stolen ideas. The kangaroo court atmosphere remains, with the same arbitrary rules and foregone conclusions.
 
-=== Chapter 12: Bob's Performance Review
+=== Chapter 12: Bob's Evidence
 
 *Setting:* Regina's imposing executive office
 
@@ -479,9 +588,11 @@ _Wonderland, Inc._ is a satirical corporate reimagining of Lewis Carroll's "Alic
 * There's disagreement about basic facts - how long Bob has been there, what his role is, what he's accomplished
 * Bob becomes increasingly confused and frustrated by the impossible expectations
 * The tension builds to an absurd level, with nonsensical accusations and requirements
+* Bob is asked to assess who really invented the Dashboard, and he realizes all the evidence is contradictory
 * Regina eventually declares, "The assessment concludes you're not a cultural fit"
 * Bob, pushed to his limit, finally stands up and declares:
 ** "This company makes no sense! You change the rules constantly, speak in meaningless jargon, and create chaos while demanding order!"
+** "You've been developing the same Dashboard for years with nothing to show for it!"
 ** "You're nothing but a deck of business cards - all surface, no substance!"
 * The office seems to swirl around him as executives and their business cards fly into the air
 * Bob suddenly "wakes up" at orientation, wondering if he dozed off during the HR presentation
@@ -496,6 +607,8 @@ _Wonderland, Inc._ is a satirical corporate reimagining of Lewis Carroll's "Alic
 * The culmination of all the corporate nonsense Bob has experienced
 * Bob's final stand against the irrationality represents awakening
 * The circular nature of corporate culture - will it all happen again?
+* The Dashboard project should be revealed as the perfect symbol of corporate dysfunction - years of work with no actual progress
+* Bob might mention the AI rebranding as part of his final realization about the company's emptiness
 
 *Callbacks to Alice:* The final confrontation with the court of cards becomes a confrontation with corporate hierarchy. The awakening from the dream remains, but with ambiguity about whether the cycle continues.
 
@@ -508,6 +621,7 @@ _Wonderland, Inc._ is a satirical corporate reimagining of Lewis Carroll's "Alic
 . *Time Distortion*: How workplaces warp our perception of time - some meetings feel endless, some deadlines impossible
 . *Hierarchy and Power*: The sometimes arbitrary nature of corporate authority and influence
 . *The Performance of Work*: The difference between appearing productive versus actually creating value
+. *Trend-Chasing*: How companies latch onto buzzwords (like AI) without substance behind them
 
 == CONTINUITY ELEMENTS
 
@@ -517,3 +631,5 @@ _Wonderland, Inc._ is a satirical corporate reimagining of Lewis Carroll's "Alic
 * *Time*: Pay attention to the flexible and contradictory nature of time throughout (meetings that never end, impossible deadlines)
 * *Corporate Artifacts*: Maintain consistent reference to company-specific items (the branded coffee mugs, specific software systems, proprietary terminology)
 * *Character Relationships*: Maintain the established dynamics between recurring characters
+* *The Dashboard Project*: Should appear throughout as the connecting thread between departments and chapters
+* *AI Rebranding*: Should be mentioned occasionally as one more layer of corporate absurdity, particularly in Chapters 6, 9, and 11

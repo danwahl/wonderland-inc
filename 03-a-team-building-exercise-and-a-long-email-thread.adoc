@@ -12,13 +12,13 @@ Bob leaned toward Malcolm. "Shouldn't we just find some towels? Or maybe a bathr
 
 "That would be logical," Malcolm whispered back. "Which is precisely why it won't happen. Watch."
 
-Douglas clapped his hands three times in a rhythm that several employees automatically repeated. "I'm implementing Protocol 27B-stroke-6: the Team Alignment Exercise!"
+Douglas clapped his hands three times in a rhythm that several employees automatically repeated. "I'm implementing the Synergy Sprint! Our Team Alignment Exercise!"
 
-"But that protocol was sunset last quarter," Elizabeth Eaglet from Design protested again, still clutching her waterlogged tablet.
+"But the quarterly team alignment was scheduled for next week," Elizabeth Eaglet from Design protested, still clutching her waterlogged tablet.
 
-"Ah!" Douglas raised a finger triumphantly. "That's precisely the kind of siloed thinking this exercise was designed to disrupt! The protocol was sunset in directive form only, while maintaining functional status in the operational guidelines appendix."
+"Ah!" Douglas raised a finger triumphantly. "That's precisely the kind of siloed thinking this exercise was designed to disrupt! The schedule was merely a placeholder for optimal engagement opportunity identification!"
 
-Elizabeth opened her mouth to argue further but seemed to think better of it and simply sighed.
+Elizabeth looked skeptical but decided not to argue further and simply nodded.
 
 Douglas quickly arranged everyone into a rough circle in the center of the room. "The exercise is simple," he explained, though his subsequent directions were anything but. "We'll move in a clockwise orbital pattern while simultaneously passing these strategy documents in a counterclockwise direction. When the document reaches your original starting point, you advance to the inner concentric circle while maintaining your relative position to personnel on your immediate left, unless they've already advanced, in which case you reference your original right-side colleague."
 
@@ -34,13 +34,13 @@ Without further explanation, the assembled employees began moving in a circular 
 
 "Three hours?" Bob nearly stopped walking but was nudged forward by someone behind him.
 
-"That was the 'Stakeholder Empathy Marathon.' We had to continually swap roles while completing each other's performance reviews. Three people quit."
+"That was the 'Stakeholder Empathy Marathon.' We had to continually swap roles while completing each other's performance reviews. Three people were hospitalized with stress-induced migraines."
 
 As they continued their circular movement, Douglas periodically shouted new instructions: "Reverse direction on value proposition exchange!" or "Accelerate timeline deliverables!" or most confusingly, "Diagonal paradigm shift on my mark!"
 
 Each new command sent the group into momentary chaos before they established a new pattern. Documents, folders, and tablets were passed in increasingly complex patterns. Some people carried multiple items, others balanced binders on their heads while typing on phones.
 
-The most baffling part to Bob was that despite the absurdity of the exercise, everyone was participating with what appeared to be genuine effort. Even the Duck from Legal, who had earlier been complaining about her ruined suit, was now enthusiastically suggesting modifications to the exercise.
+The most baffling part to Bob was that despite the absurdity of the exercise, everyone was participating with what appeared to be genuine effort. Even Diana Duck, who had earlier been complaining about her ruined suit, was now enthusiastically suggesting modifications to the exercise.
 
 "We should incorporate a feedback loop mechanism!" she called out, to murmurs of agreement.
 
@@ -48,7 +48,7 @@ After nearly forty minutes of this inexplicable activity, Bob noticed that his c
 
 Everyone stopped moving abruptly, causing Bob to bump into Malcolm.
 
-"Excellent work, everyone!" Douglas announced, beaming as though they'd accomplished something significant. "By my metrics, today's Team Alignment Exercise was 31% more efficient than last quarter's, with a marked improvement in cross-functional integration!"
+"Excellent work, everyone!" Douglas announced, beaming as though they'd accomplished something significant. "By my metrics, today's Synergy Sprint was 31% more efficient than last quarter's, with a marked improvement in cross-functional integration!"
 
 This declaration was met with scattered applause. Bob looked around in bewilderment as people congratulated each other on their performance.
 
@@ -62,7 +62,7 @@ This declaration was met with scattered applause. Bob looked around in bewilderm
 
 Douglas was now standing on a chair, addressing the group. "As is tradition following a successful alignment exercise, everyone receives recognition for their unique contributions!"
 
-From a seemingly ordinary leather messenger bag, Douglas produced a stack of small cards and began distributing them to each participant. When Bob received his, he found it was a cardstock certificate with the Wonderland, Inc. logo and the words "Certificate of Participation: Team Alignment Excellence" printed in an ornate font. Below this was a blank line where Douglas had hastily scrawled "Bob" with a question mark after it.
+From a standard messenger bag with the company logo, Douglas produced a stack of small cards and began distributing them to each participant. When Bob received his, he found it was a cardstock certificate with the Wonderland, Inc. logo and the words "Certificate of Participation: Team Alignment Excellence" printed in an ornate font. Below this was a blank line where Douglas had hastily scrawled "Bob" with a question mark after it.
 
 "These are the prizes?" Bob asked, turning the certificate over to find nothing on the back.
 
@@ -82,17 +82,17 @@ The employees arranged themselves on chairs and on the steps of the conference a
 
 "I'll begin with the origins of our team alignment methodology," Malcolm announced, scrolling through the email chain. "It all started with a message from William Conqueror in Executive Strategy..."
 
-Bob watched in fascination as Malcolm projected and narrated the email thread. The messages were displayed in a nested format that, due to varying indentation levels and response chains, created a shape on the screen that remarkably resembled a tail winding down the display.
+Bob watched in fascination as Malcolm projected and narrated the email thread. The messages were displayed in a nested format that, due to varying indentation levels and response chains, created a sinuous shape on the screen that remarkably resembled a tail winding down the display.
 
 Malcolm read message after message in a detailed chronology of Wonderland's team-building evolution. The names and dates blurred together as Bob struggled to follow the increasingly complex corporate narrative:
 
-"...and then Edwin and Morcar from Mergers and Acquisitions responded with concerns about resource allocation, which prompted Stigand from Corporate Development to suggest—"
+"...and then Edwin and Morcar from Mergers and Acquisitions responded with concerns about resource allocation, which prompted our VP of Corporate Development to exclaim 'We've found it!'," Malcolm continued, pointing excitedly at the email thread.
 
-"Found what?" interrupted Duck from Legal, who was reviewing documents during Malcolm's presentation.
+"Found it?" interrupted Diana Duck from Legal, who was reviewing documents during Malcolm's presentation.
 
-"Found *it*," Malcolm replied irritably. "It's right there in the email thread. The critical process innovation."
+"Found *it*," Malcolm replied irritably. "It's right there in the email thread."
 
-"I know what 'it' means when I find something in a contract," Duck replied. "It's usually a liability or a loophole. What did Stigand find exactly?"
+"I know what 'it' means when I find something in a contract," Diana replied. "It's usually a liability or a loophole. What did your VP find exactly?"
 
 Malcolm continued without addressing her question directly, scrolling further through the endless email chain. The shape on the screen grew more tail-like with each new indented reply.
 
@@ -100,7 +100,7 @@ Bob tried to focus, but the combination of corporate jargon, unfamiliar names, a
 
 "Are you paying attention, Bob?" Malcolm suddenly asked, noticing Bob's glazed expression.
 
-"Absolutely," Bob replied quickly. "You were talking about... email... protocols?"
+"Absolutely," Bob replied quickly. "You were talking about... email... protocols?" He felt confused about what Malcolm was actually trying to explain.
 
 Malcolm frowned. "I was explaining the foundational principles of our team-building methodology as established in the Great Reorganization. This is essential knowledge for navigating Wonderland's corporate culture."
 
@@ -120,7 +120,7 @@ The presentation grew increasingly technical, with flowcharts showing Malcolm's 
 
 "No, no," Malcolm said with mild exasperation. "I was in Accounting Operations, then transitioned laterally to Financial Reporting, followed by a strategic repositioning to Accounting Analytics. They're completely different verticals with distinct KPI frameworks."
 
-"Right, of course," Bob nodded, though the distinction seemed arbitrary.
+"Right, of course," Bob nodded, though the distinction confused him.
 
 "The critical insight," Malcolm continued, pointing to another slide, "was recognizing the correlation between committee participation and promotion velocity. Each additional working group membership increased advancement probability by 7.2%."
 
@@ -142,7 +142,9 @@ Douglas quickly stepped in. "And this is exactly why knowledge-transfer sessions
 
 No one seemed to know how to respond to this, and an awkward silence descended on the group. Finally, Elizabeth Eaglet from Design spoke up.
 
-"Shouldn't we be getting back to our departments? I have a deadline at 3PM."
+"Shouldn't we be getting back to our departments? I have a deadline at noon."
+
+Bob glanced at his watch. It was already 11:45 AM.
 
 "Of course, of course," Douglas agreed. "Let's reconvene tomorrow for a retrospective on today's alignment exercise. Same time, same place!"
 
@@ -150,7 +152,7 @@ As the group dispersed, Bob approached Malcolm, hoping to smooth things over.
 
 "Malcolm, I apologize if I seemed dismissive of your presentation. This is all new to me, and I'm still learning the ropes."
 
-Malcolm sniffed primly but seemed slightly mollified. "I suppose your perspective is understandable given your limited exposure to proper corporate protocols. I can forward you the first seventy-five emails in the thread to provide better context."
+Malcolm sniffed primly but seemed slightly mollified. "I suppose your perspective is understandable given your limited exposure to proper corporate protocols. I can forward you the first batch of emails in the thread to provide better context."
 
 "That would be... helpful," Bob replied, trying to sound enthusiastic.
 
@@ -167,5 +169,3 @@ As quickly as he had appeared, Harvey vanished through a door on the far side of
 But Bob's curiosity was already piqued. Something about Harvey's urgent manner and the mention of an executive team meeting stirred his interest. While Malcolm was distracted gathering his presentation materials, Bob quietly slipped away toward the door Harvey had used.
 
 "I'll just take a quick look," he told himself. "What's the worst that could happen?"
-
-As he would soon discover, at Wonderland, Inc., that was a dangerous question to ask.

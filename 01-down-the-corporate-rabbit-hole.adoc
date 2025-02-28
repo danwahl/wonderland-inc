@@ -16,13 +16,15 @@ Clutching the badge, Bob hesitated only a moment before following. After all, th
 
 "Mr. White?" Bob called, his voice echoing slightly in the empty corridor.
 
-At the end of the hallway, a door was just closing. Bob jogged toward it, pushing through just in time to see Harvey's white hair bobbing away down another corridor. This hallway was different - darker, with recessed lighting and walls painted a deep blue.
+At the end of the hallway, a door was just closing. Bob jogged toward it, pushing through just in time to see Harvey's white hair bobbing away down another corridor. This hallway was different—darker, with recessed lighting and walls painted a deep blue.
 
 As Bob pursued Harvey through a labyrinth of increasingly unfamiliar passages, he couldn't help but wonder if he was straying too far from reception. "I should probably just give this to security," he thought, but something compelled him forward. Each section of the building had a distinctly different design scheme - modern glass gave way to industrial concrete, then to something resembling a tech startup's idea of a creative space, complete with hanging chairs and nonsensical motivational phrases stenciled on the walls.
 
 *Progress Is Circular!* one proclaimed.
 
 *Failure Is Just Success In Beta!* insisted another.
+
+
 
 Bob turned another corner and spotted Harvey slipping into what appeared to be a service elevator at the end of a maintenance corridor. The doors were beginning to close.
 
@@ -34,7 +36,7 @@ To his surprise, he made it just in time, slipping through the narrowing gap. Ha
 
 The elevator had no buttons. Where a control panel should have been was a sleek black screen that suddenly illuminated with the Wonderland, Inc. logo, pulsing gently.
 
-"Welcome, Harvey White," came a pleasant automated voice. "Biometric scan accepted. Proceeding to requested destination."
+"Welcome, Harvey White," came a pleasant automated voice. "Badge scan accepted. Proceeding to requested destination."
 
 Bob looked down at the badge in his hand with dawning realization. The elevator must have scanned it automatically, mistaking him for Harvey.
 
@@ -52,19 +54,19 @@ The elevator lurched downward, cutting off his protest. At first, the sensation 
 
 *FLOOR C*
 
-Bob steadied himself against the wall, his stomach dropping with the rapid descent. As his eyes adjusted, he realized the elevator had glass panels on three sides, allowing views into the building as they descended. But what he saw made little sense.
+Bob steadied himself against the wall, his stomach dropping with the rapid descent. The elevator had glass panels on three sides, allowing views into the building as they descended. But what he saw made little sense.
 
-They passed a floor that seemed to contain nothing but an enormous coffee mug, at least ten feet tall, with steam actually rising from its contents. Another floor revealed rows of cubicles sized for giants, with chairs that could seat three people comfortably. Yet another showed what appeared to be a forest of potted plants with computer monitors hanging from their branches like strange technological fruit.
+They passed a floor that seemed to contain nothing but an enormous coffee mug with steam rising from its contents. Another floor revealed rows of cubicles sized for giants, with chairs that could seat three people comfortably. Yet another showed what appeared to be a forest of potted plants with computer monitors hanging from their branches like strange technological fruit.
 
-"This can't be real," Bob whispered, pressing his face against the glass.
+"This can't be happening," Bob whispered, pressing his face against the glass.
 
-They passed a floor where employees sat in meetings wearing elaborate animal-head masks. Another where everyone walked in perfect circles around their desks. One floor appeared to be entirely underwater, with workers in business attire seemingly breathing and working normally beneath the surface.
+They passed a floor where employees sat in meetings wearing elaborate animal-head masks. Another where everyone walked in perfect circles around their desks. One floor appeared to be entirely underwater, with workers in business attire wearing scuba gear while typing on waterproof keyboards.
 
 The elevator accelerated further, and the floors began to blur together. Bob felt himself growing lighter, as if the rapid descent was reducing gravity's hold on him. Papers from his messenger bag began to float upward. His tie drifted up to eye level.
 
 "Is this some kind of practical joke for new employees?" he wondered aloud, trying to make sense of the impossible sights. "Some virtual reality thing, maybe?"
 
-The floors continued to flash by, each more bizarre than the last. One contained only a massive clock with hands spinning backwards. Another held nothing but filing cabinets stretching as far as the eye could see. Bob spotted a floor where employees appeared to be aging in fast-forward, their hair growing and graying as they worked.
+The floors continued to flash by, each more bizarre than the last. One contained only a massive clock with hands spinning backwards. Another held nothing but filing cabinets stretching as far as the eye could see. Bob spotted a floor where employees appeared to be aging in fast-forward, their hair growing and graying before his eyes.
 
 Just as he was beginning to wonder if the elevator would ever stop, the automated voice returned:
 
@@ -72,7 +74,7 @@ Just as he was beginning to wonder if the elevator would ever stop, the automate
 
 The elevator slowed gradually, then came to a gentle stop with a cheerful ding. The doors slid open.
 
-"Organizational Substructure Level 42. Mind the gap. Have a productive day."
+"Organizational Substructure Level 42. Mind the gap. Have a wonderful day."
 
 Bob stepped out cautiously into a dimly lit corridor that looked nothing like the modern tech company he'd arrived at that morning. The walls were paneled in dark wood, with ornate sconces providing weak, flickering illumination. The carpet was a deep red with an intricate pattern that seemed to shift when viewed from different angles.
 
@@ -82,7 +84,7 @@ The elevator doors closed behind him with an ominous thud. When Bob turned back,
 
 No response.
 
-The hallway extended in both directions, curving slightly so that he couldn't see far in either direction. Along the walls were doors - dozens of them - of all different sizes and shapes. Some were tall enough for a basketball player, others so tiny they might accommodate a mouse. Each bore a small brass plaque with strange department names:
+The hallway extended in both directions, curving slightly so that he couldn't see far in either direction. Along the walls were doors - dozens of them - of all different sizes and shapes. Some were tall enough for a basketball player, others so tiny they seemed designed for a child. Each bore a small brass plaque with strange department names:
 
 *Rapid Growth Team*
 
@@ -102,7 +104,7 @@ He tried another door, then another. All locked.
 
 At the end of the hall, he noticed a table he hadn't seen before. On it sat a small laptop, open and powered on, displaying a login screen. Next to it was a company keycard attached to a lanyard, and a small USB drive.
 
-Bob approached cautiously. The keycard had his name and photo on it, though he had no memory of having this picture taken. The login screen prompted:
+Bob approached cautiously. The keycard had his name and photo on it, though he had no memory of having this picture taken. Below his name was the title "Transformation Catalyst - Paradigm Integration Team." The login screen prompted:
 
 ....
 WELCOME TO WONDERLAND, INC.
@@ -114,6 +116,6 @@ PASSWORD: ▓▓▓▓▓▓▓▓▓▓
 
 Bob stared at the screen, then at the dark hallway with its numerous doors, then back at what appeared to be his company ID.
 
-"What kind of company is this?" he whispered to the empty corridor.
+"What kind of company is this?" he whispered to the empty corridor as he slipped the lanyard over his neck, pocketing Harvey's badge for safekeeping.
 
 Somewhere in the distance, a door clicked open.

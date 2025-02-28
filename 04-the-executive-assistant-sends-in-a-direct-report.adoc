@@ -10,23 +10,23 @@ Harvey finally paused at the sound of his name, turning around with a harried ex
 
 "Mary Ann! There you are!" Harvey exclaimed, rushing back toward Bob. "Where have you been? I've sent seventeen calendar invites, twelve Slack messages, and four high-priority emails!"
 
-"I'm not Mary Ann," Bob began to explain. "My name is—"
+"I'm not Mary Ann," Bob began to explain, offering Harvey's badge. "My name is—"
 
-"No time for identity crises!" Harvey cut him off, grabbing Bob's arm and pulling him down the corridor. "The executive team needs the Q4 analytics report for the projections meeting that started"—he checked his Apple Watch—"eleven minutes and forty-three seconds ago! Regina is going to have someone's head for this delay."
+"No time for identity crisis!" Harvey cut him off, gratefully taking his badge and clipping it to his lanyard. "The executive team needs the Q4 analytics report for the projections meeting that started"—he checked his Apple Watch—"eleven minutes and forty-three seconds ago! Regina is going to have someone's head for this delay."
 
 "But I don't have any analytics report," Bob protested. "I just started today."
 
 Harvey stopped abruptly, looking Bob up and down with newfound suspicion. "Are you certain you're not Mary Ann from Data Analysis?"
 
-"Positive. I'm Bob Henderson. I was supposed to start as a Project Coordinator today, but somehow ended up... here." He gestured vaguely at their surroundings.
+"Positive. I'm Bob Henderson. I was supposed to start as a Project Coordinator today, but somehow arrived... here." He gestured vaguely at their surroundings.
 
-Harvey's expression cycled rapidly through confusion, alarm, and then resignation. "Well, you're wearing a company badge, so you must belong somewhere." He squinted at Bob's ID. "Transformation Catalyst? That's a new one. HR keeps inventing positions without telling me."
+Harvey's expression cycled rapidly through confusion, alarm, and then resignation. "Well, you're wearing a company badge, so you must belong somewhere." He squinted at Bob's ID. "Transformation Catalyst? That's a new one. HR keeps optimizing our organizational nomenclature without proper stakeholder notification."
 
 He checked his devices again and made a split-second decision. "Doesn't matter. You're here, and I need those reports. You can access Bill Lizard's workstation and pull the files—he's out at a vendor meeting until 2:30."
 
 "I really don't think I should—"
 
-"Here," Harvey interrupted, removing his own badge and swiping it through a card reader on the wall. A hidden panel slid open, revealing a row of keycards. He grabbed one and thrust it at Bob. "Temporary access to the analytics department. Get the Q4 reports from Bill's computer, bring them to Conference Room E—that's the Executive Suite, north wing, second floor."
+"Here," Harvey interrupted, swiping his own badge through a card reader on the wall. A panel slid open, revealing a computer terminal. Harvey quickly typed a series of commands. "I've granted your badge temporary access to the analytics department. Get the Q4 reports from Bill's computer, bring them to Conference Room E—that's the Executive Suite, north wing, second floor."
 
 "But I don't know how to—"
 
@@ -34,11 +34,11 @@ He checked his devices again and made a split-second decision. "Doesn't matter. 
 
 Before Bob could protest further, Harvey was already rushing away. "Fifteen minutes late now! I'll stall them with the coffee service delay tactic. Do NOT make me use the printer malfunction excuse again!"
 
-With that, he disappeared around a corner, leaving Bob holding the access keycard and feeling more confused than ever.
+With that, he disappeared around a corner, leaving Bob holding his newly authorized badge and feeling more confused than ever.
 
 "I should just find my way back to reception," Bob muttered to himself. But curiosity—and the fact that he was thoroughly lost—pushed him to follow Harvey's instructions. Perhaps helping retrieve these reports would lead him to someone who could properly orient him.
 
-Using the keycard, Bob passed through a series of security doors, each leading to increasingly specialized department areas. He passed the "Future Forecasting Unit" where employees stared intensely at what appeared to be crystal balls displaying stock charts. Next was the "Retroactive Planning Division" where staff were busily editing documents dated from the previous year.
+Using the badge, Bob passed through a series of security doors, each leading to increasingly specialized department areas. He passed the "Future Forecasting Unit" where employees stared intensely at what appeared to be crystal balls displaying stock charts. Next was the "Retroactive Planning Division" where staff were busily editing documents dated with timestamps from the previous quarter.
 
 The signs grew more specific and unusual as he continued: "Hypothetical Outcome Visualization," "Narrative Adjustment Team," and most puzzlingly, "Department of Redundancy Department."
 
@@ -58,9 +58,9 @@ He navigated through an increasingly complex folder structure:
 
  S:\Departments\Analytics\Teams\QADID\Projects\Quarterly\2025\Q4\Reports\Executive\Final\Actually_Final\No_Really_Final\Approved
 
-Each subfolder contained dozens more folders with similar naming conventions. Bob's frustration grew as he clicked through the byzantine structure. When he finally found what appeared to be the right location, he discovered seven different files with nearly identical names to what Harvey had specified, each with slightly different dates and version numbers.
+Each subfolder contained dozens more folders with similar naming conventions. Bob's frustration grew as he clicked through the byzantine structure. When he finally found what appeared to be the right location, he discovered seven different files with nearly identical names to what Harvey had specified, each with different modification dates and version numbers.
 
-Unsure which was truly the latest version, Bob decided to open several files to compare them. He clicked on three Excel files and two PowerPoint presentations simultaneously. The computer, which appeared to be several years old, struggled under the sudden workload. The fan began to whir loudly.
+Unsure which was truly the latest version, Bob decided to open several files to compare them. He clicked on three Excel files and two PowerPoint presentations one after another. The computer, which appeared to be several years old, struggled under the sudden workload. The fan began to whir loudly.
 
 Bob waited as the files slowly opened. When they finally loaded, he was confronted with spreadsheets containing thousands of rows of data and presentations with hundreds of slides. The computer slowed to a crawl as he attempted to switch between them.
 
@@ -72,7 +72,7 @@ A warning message appeared:
 
 Bob tried to close some of the files, but the computer had become unresponsive. Each click seemed to open another application rather than closing the existing ones. Soon the taskbar was filled with open programs and dialog boxes.
 
-The fan noise increased to a concerning whine. The screen began to flicker. Bob felt panic rising as the computer struggled under his commands. It was as if the machine was growing too small for the tasks he was asking it to perform—or conversely, as if his digital presence had grown too large for the limited system.
+The fan noise increased to a concerning whine. The screen began to flicker. Bob felt panic rising as the computer struggled under his commands. The system couldn't handle the volume of data he was trying to access.
 
 Another warning appeared:
 
@@ -84,19 +84,19 @@ Another warning appeared:
 
 The computer froze completely, displaying only the error message and a progress bar labeled "Collecting incident data for security analysis."
 
-Bob sat back in the too-small chair, a sense of dread washing over him. He'd been in the company less than a day and had already triggered a security incident. He glanced at his watch—only ten minutes had passed since Harvey had left him with this task.
+Bob sat back in the too-small chair, a sense of dread washing over him. He'd been at the company for only a few hours and had already triggered a security incident.
 
-Suddenly, the cubicle was filled with the sound of an alarm—not a building-wide emergency alarm, but rather the distinct notification sound of multiple phones receiving the same alert simultaneously. From beyond the cubicle walls came the sound of rapid movement and urgent voices.
+Suddenly, the cubicle was filled with the sound of an alarm—not a building-wide emergency alarm, but rather the distinct notification sound of multiple phones receiving the same alert one after another. From beyond the cubicle walls came the sound of rapid movement and urgent voices.
 
 "Section 12 breach!" +
 "Unauthorized access in QADID!" +
 "Workstation 27B reporting anomalous activity!"
 
-Bob peeked over the cubicle wall to see several people in matching polo shirts with "IT RESPONSE TEAM" printed on the back hurrying in his direction. They moved with the coordinated precision of a SWAT team, each carrying tablets and equipment bags.
+Bob peeked over the cubicle wall to see several people in matching polo shirts with "IT RESPONSE TEAM" printed on the back hurrying in his direction. They moved with the coordinated precision of a tactical team, each carrying tablets and equipment bags.
 
 Ducking back down, Bob considered his options. He could try to explain the situation—that he was new and had been sent by Harvey—but given how strange everything had been so far, he wasn't confident that would help. He could make a run for it, but he had no idea how to exit this maze of departments.
 
-Before he could decide, the response team arrived at Bill Lizard's cubicle. Two team members, who Bob noted with surprise were indeed unusually small and round-faced like guinea pigs, peered over the wall at him.
+Before he could decide, the response team arrived at Bill Lizard's cubicle. Two team members, who Bob noted were remarkably efficient in their movements despite their small stature, peered over the wall at him.
 
 "Unauthorized user detected," announced one, pointing a tablet at Bob like a weapon.
 
@@ -114,9 +114,9 @@ The team exchanged skeptical glances.
 
 Pat spoke into his headset. "We need Bill Lizard from Analytics. Emergency override on his vendor meeting."
 
-Within minutes, a thin, nervous-looking man with a lizard-like quality to his movements hurried into the department. His eyes widened in alarm when he saw the state of his cubicle and the assembled response team.
+Within minutes, a thin, nervous-looking man with perpetually darting eyes and quick, precise movements hurried into the department. His alarmed expression intensified when he saw the state of his cubicle and the assembled response team.
 
-"My workstation! What's happening?" Bill asked, his voice rising in panic.
+"My workstation! What's happening?" Bill asked, his voice rising in pitch.
 
 "This individual claims Harvey White authorized him to access your system," Pat explained, gesturing at Bob.
 
@@ -126,7 +126,7 @@ Bill looked at Bob with growing horror. "That's impossible! No one touches my da
 
 "Q4 reports?" Bill's expression shifted from horror to confusion. "Those aren't due until next week. We're still in Q3."
 
-A chime sounded, and one of the guinea pig-like IT responders held up a tablet. "Incoming video call from Executive Suite."
+A chime sounded, and one of the IT responders held up a tablet. "Incoming video call from Executive Suite."
 
 Pat nodded grimly. "Put it on screen."
 
@@ -138,57 +138,47 @@ The largest monitor in the department lit up, displaying a video call with Harve
 
 A woman with a severe haircut and an aura of absolute authority moved into frame beside Harvey. "What is the meaning of this interruption? We've been waiting for those reports for twenty-three minutes."
 
-"Regina Heart, CEO," Pat whispered to Bob, unnecessarily.
+"Regina Heart, CEO," Pat whispered to Bob.
 
-On screen, Harvey was attempting to explain the situation. "A case of mistaken identity, Ms. Heart. I thought this was Mary Ann from Analytics, but it appears to be a new hire who somehow gained access to—"
+Harvey was attempting to explain the situation. "A case of mistaken identity, Ms. Heart. I thought this was Mary Ann from Analytics, but it appears to be a new hire who somehow gained access to—"
 
 "Incompetence!" Regina interrupted. "This is exactly the kind of disorganization that undermines our market position. Where is Bill Lizard? He's responsible for those reports."
 
-Bill stepped forward nervously. "Here, Ms. Heart. But the reports aren't actually due until—"
+Bill stepped forward nervously, moving into view of the camera. "Here, Ms. Heart. But the reports aren't actually due until—"
 
 "Excuses! I want those figures in five minutes or someone will be seeking employment elsewhere!"
 
-The call ended abruptly, leaving an uncomfortable silence in its wake.
+Bill turned away from the camera and attempted to access his frozen computer. "The system's completely locked up! All my data models for the Stakeholder Dashboard, my projections, my beautifully normalized data tables!"
 
-"This is a disaster," Bill moaned, pushing past Bob to access his frozen computer. "The system's completely locked up! All my models, my projections, my beautifully normalized data tables!"
+He tapped frantically at the keyboard with no response. "IT needs to undo whatever he did," Bill said, gesturing dismissively at Bob who was still visible in the background of the call.
 
-He tapped frantically at the keyboard with no response. "IT needs to undo whatever he did," Bill said, gesturing dismissively at Bob.
+Pat signaled to his team. "Total workstation reset. Priority level one."
 
-Pat nodded to his team. "Total workstation reset. Priority level one."
-
-One of the guinea pig-like IT workers produced a device that looked like a cross between a tablet and a defibrillator. "Clear the workspace!"
+One of the IT workers produced a device that looked like a cross between a tablet and a defibrillator. "Clear the workspace!"
 
 Everyone stepped back as they applied the device to the computer tower. There was a brief electronic whine, and then all the lights on the computer went out.
 
 "System purged," announced the IT worker. "Initiating remote backup restoration."
 
-Bill looked ready to faint. "Remote backup? But that's from yesterday! I'll lose all of today's work!"
+Bill looked back at the camera with rising panic. "Remote backup? But that's from yesterday! I'll lose all of today's work!"
 
-"Collateral damage," Pat said unsympathetically. "Security protocols take precedence over data preservation."
+"Collateral damage," Pat said unsympathetically, still in view of the call. "Security protocols take precedence over data preservation."
 
-As the IT team worked to restore the system, Bill turned his attention to Bob, his initial shock giving way to indignation. "Who authorized you to access my workstation? Do you have any idea what you've done? The normalization algorithms take hours to calibrate!"
+As the IT team worked to restore the system, the executives on the call began side conversations, adding to the chaos. Bill's frustration visibly mounted as he turned his attention to Bob. "Who authorized you to access my workstation? Do you have any idea what you've done? The normalization algorithms take hours to calibrate!"
 
-"I'm sorry," Bob said sincerely. "Harvey thought I was someone else, and—"
+"I'm sorry," Bob said sincerely, awkwardly addressing both Bill and the executives on the call. "Harvey thought I was someone else, and—"
 
 "Harvey!" Bill's indignation found a new target. "Always rushing, never confirming identities! This isn't the first time his carelessness has disrupted my work."
 
-He pulled out his phone and began typing furiously. "I'm scheduling an emergency Zoom call with Harvey, Regina, and the department heads to address this security breach."
+Harvey, still on camera, began a stammering defense. "I apologize for the confusion, but we still need those Dashboard analytics for the strategy session!"
 
-Bob watched with growing alarm as Bill set up the call and people began joining, including Regina Heart and several other executives. The call was projected onto the department's main screen, visible to everyone.
-
-"As you can see," Bill was explaining, his voice growing more confident as he shifted into presentation mode, "unauthorized access to sensitive systems presents a critical vulnerability in our information security framework. This incident clearly demonstrates the need for—"
-
-The call was suddenly interrupted as Harvey joined, looking even more frantic than before.
-
-"I apologize for the confusion," Harvey began, "but we still need those Q4 projections for the meeting that is now thirty-two minutes behind schedule!"
-
-"The Q4 projections don't exist yet!" Bill retorted. "We're still compiling Q3 data!"
+"The Q4 Dashboard analytics don't exist yet!" Bill retorted. "We're still compiling Q3 data!"
 
 "Then what about the reports you sent last week labeled Q4_preliminary?" Harvey demanded.
 
 "Those were templates! They contain no actual data!"
 
-As the argument escalated, Regina Heart's expression grew increasingly thunderous. Other executives on the call began side conversations, adding to the chaos. Bob stood awkwardly in the background, wondering if he could slip away unnoticed.
+As the argument escalated on the video call, Regina Heart's expression grew increasingly thunderous. Bob stood awkwardly in the background, wondering if he could slip away unnoticed.
 
 His movement caught Regina's eye. "You!" she snapped, pointing directly at Bob through the screen. "The impostor! What department are you actually from?"
 
@@ -202,9 +192,9 @@ In the midst of this chaos, the system restoration completed with a cheerful chi
 
 Bill let out a wail of despair that momentarily silenced the ongoing argument. "My models! My beautiful data models!"
 
-His anguished cry somehow cut through the Zoom call chaos. Everyone fell silent, staring at the devastated analyst.
+His anguished cry somehow cut through the video call chaos. Everyone fell silent, staring at the devastated analyst.
 
-"I had three weeks of work on that system! Unreleased projections and scenario models that weren't backed up yet!" Bill's voice rose in pitch as his professional life flashed before his eyes. "The quarterly strategy depends on those models!"
+"I had three weeks of work on that system! Unreleased dashboard projections and AI enhancement models that weren't backed up yet!" Bill's voice rose in pitch as his professional life flashed before his eyes. "The quarterly dashboard strategy depends on those models!"
 
 On screen, Regina Heart's face transformed from anger to something far more dangerous: cold calculation.
 
@@ -220,7 +210,7 @@ Bill's face went pale. "I... I was going to upload them to the secure server ton
 
 The executives began dropping off the call one by one, leaving only Harvey, who looked both relieved that attention had shifted away from him and horrified at the unfolding career catastrophe.
 
-"Bill, I'm so sorry," Harvey began, but Bill cut the call, plunging the department into uncomfortable silence.
+"Bill, I'm so sorry," Harvey began, but Bill angrily disconnected the call, plunging the department into uncomfortable silence.
 
 All eyes turned to Bob, who stood frozen in the middle of the analytics department, surrounded by the IT team and a shell-shocked Bill Lizard.
 
@@ -240,7 +230,7 @@ In the corridor outside the analytics department, Bob took a deep breath, trying
 
 "I need to find my way out of here," he decided, looking up and down the hallway for exit signs or directions to reception.
 
-Instead, he saw a small placard on the opposite wall that hadn't been there before: "ORIENTATION THIS WAY" with an arrow pointing down yet another unfamiliar corridor.
+To his surprise, as he turned around, he noticed a door directly across the hallway with a small placard reading "ORIENTATION THIS WAY" with an arrow pointing inward. He was certain the door hadn't been visible when he'd first entered this corridor.
 
 With few other options and a strong desire to escape the aftermath of the analytics department disaster, Bob followed the sign, hoping it would lead him back to some semblance of normalcy. What he found instead was a door labeled "IT Director - Marcus Denton" surrounded by a haze of what appeared to be vapor.
 

@@ -1,34 +1,26 @@
 == Advice from IT
 
-The vapor inside the IT Director's office swirled in lazy patterns, glowing faintly in the blue light of multiple monitors. Bob stepped cautiously into the room, which was much larger than it had appeared from outside. Server towers hummed along the walls, their blinking lights creating a constellation effect in the dim space.
+The IT Director's office was unlike anything Bob had seen in the building so far. The space was unusually designed with server towers creating a maze-like interior. The blue glow of multiple monitors provided the primary illumination, giving the room an otherworldly atmosphere.
 
-In the center of the room, Marcus Denton sat atop an absurdly tall ergonomic chair, so elevated that he looked down on visitors from a height of at least seven feet. The chair appeared to be extended to its maximum setting, with additional risers added to the base for extra elevation. The IT Director himself was lanky and pale, dressed in an expensive black turtleneck and designer jeans—a stark contrast to the business casual attire Bob had seen throughout the rest of Wonderland, Inc.
+Bob found Marcus Denton perched on an extremely tall ergonomic chair that had been extended to its maximum height. The IT Director was lanky and pale, dressed in a black turtleneck and designer jeans that contrasted sharply with the corporate dress code Bob had observed throughout Wonderland, Inc. Marcus was vaping continuously, creating clouds that swirled gently around his elevated workspace.
 
-Marcus took a long pull from an elaborate vaping device, exhaling a dense cloud that joined the haze already filling the room. He regarded Bob without speaking, his expression neither welcoming nor dismissive—merely observant.
+Instead of welcoming Bob or offering assistance, Marcus looked down at him with an expression of detached curiosity. "Who are you?" he asked simply.
 
 "Hello," Bob ventured after an uncomfortable silence. "I was directed here by a sign in the hallway. I'm new, and I'm trying to find my way back to orientation or HR."
 
 Marcus continued to stare at Bob, taking another pull from his vape pen. Finally, he spoke in a languid voice that somehow conveyed both boredom and intensity.
 
-"Who are you?" he asked simply.
-
-"I'm Bob Henderson. I started today as a Project Coordinator. Or at least I was supposed to." He glanced at his badge. "Though this says 'Transformation Catalyst' for some reason."
-
-Marcus exhaled another cloud, saying nothing.
-
-"Could you help me find my way back to the main reception area?" Bob asked, trying again. "I seem to be lost in the building."
-
-"Who. Are. You?" Marcus repeated, emphasizing each word as if Bob had failed to understand a simple question.
+"Who are you?" he repeated, emphasizing each word as if Bob had failed to understand a simple question.
 
 "I just told you—"
 
 "No," Marcus interrupted, "you provided a label and a corporate designation. That's not identity. That's taxonomy." He leaned forward slightly. "Let me be more specific: Who are you on our network?"
 
-Bob blinked in confusion. "I don't know. I haven't been issued login credentials yet. As I mentioned, I just started today."
+Bob paused, unsure how to respond. "I don't think I've been fully onboarded to your systems yet."
 
 Marcus tapped briefly on one of the many keyboards arranged around his elevated workspace. Screens flickered to life, displaying scrolling data.
 
-"Curious," he murmured. "According to our systems, 'Bob Henderson' has been accessing our network for the past three weeks. Seventeen unique logins across twelve different subsystems." He looked down at Bob with renewed interest. "Are you certain today is your first day?"
+"Curious," he murmured. "According to our systems, 'Bob Henderson' has been accessing our network for the past three weeks. Seventeen unique logins across twelve different subsystems, including multiple queries about the Dashboard project's data architecture." He looked down at Bob with renewed interest. "Are you certain today is your first day?"
 
 "Absolutely positive," Bob replied, increasingly unsettled. "My offer letter specified February 25th as my start date. Today."
 
@@ -58,7 +50,7 @@ He rotated one of the screens to show Bob a complex diagram that appeared to map
 
 "Privacy is an antiquated concept," Marcus said with a dismissive wave. "Data flows freely within the modern corporate ecosystem. The real question is not what we know about you, but what you know about yourself."
 
-He descended slightly in his chair—though still remaining well above Bob's eye level—and fixed him with an penetrating stare. "So I return to my original query: Who are you?"
+He descended slightly in his chair—though still remaining well above Bob's eye level—and fixed him with a penetrating stare. "So I return to my original query: Who are you?"
 
 There was something in his tone that made the question feel profound rather than repetitive. Bob found himself genuinely considering how to answer, beyond the obvious responses of name and title.
 
@@ -82,7 +74,7 @@ Bob sighed. "That's exactly what I'm trying to figure out. How do I navigate bac
 
 "Options," Marcus replied. "The white drive contains administrative credentials—elevated access that will allow you to move freely through most of our systems and physical spaces. The black drive contains restricted credentials—limited access that provides security through obscurity."
 
-He held one drive in each hand, extending them toward Bob. "One will expand your presence within Wonderland. One will contract it. The choice is yours."
+He held one drive in each hand, extending them toward Bob. "One will expand your presence within Wonderland. One will contract it. Choose according to your nature."
 
 Bob looked between the two drives skeptically. "And I'm supposed to just choose one without knowing the consequences?"
 
@@ -116,7 +108,7 @@ A door on the far side of the office, which Bob hadn't noticed before, slid open
 
 Bob could see that further conversation would be futile. He moved toward the open door, USB drive clutched in his hand.
 
-"One last question," Marcus called as Bob reached the threshold. "What is your primary function at Wonderland?"
+"One last question," Marcus called as Bob reached the threshold. "What is your primary function here at Wonderland?"
 
 Bob turned back with a frown. "According to my offer letter, project coordination."
 
@@ -128,7 +120,7 @@ Marcus gazed down at him thoughtfully. "It means you see inconsistencies that ot
 
 With no better options, Bob stepped through the doorway, which closed silently behind him. He found himself in yet another corridor, but this one was different—brighter, more modern, with clear directional signs on the walls.
 
-Bob examined the USB drive in his hand, wondering what restricted access would actually mean for his journey through Wonderland, Inc. He located a nearby computer terminal mounted on the wall and, after a moment's hesitation, inserted the drive.
+Bob examined the black USB drive in his hand, wondering what restricted access would actually mean for his journey through Wonderland, Inc. He located a nearby computer terminal mounted on the wall and, after a moment's hesitation, inserted the drive.
 
 The screen immediately displayed a map of his current location with a highlighted path. According to the map, he was now on the opposite side of the building from where he had started, in an area labeled "Product Development & Implementation."
 
@@ -136,4 +128,4 @@ Bob removed the drive and pocketed it, somewhat relieved to finally have some cl
 
 As he turned a corner, Bob came upon a door labeled "Product Management Suite." From inside, he could hear raised voices—someone was clearly being berated in harsh tones. Bob hesitated, not wanting to walk into another uncomfortable situation, but the mapped path led directly through this department.
 
-Taking a deep breath, he pushed open the door and stepped into what would prove to be his strangest encounter yet at Wonderland, Inc.
+Taking a deep breath, he pushed open the door and stepped inside.
