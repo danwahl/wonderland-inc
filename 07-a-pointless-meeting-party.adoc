@@ -2,13 +2,13 @@
 
 After knocking twice with no response, Bob cautiously pushed open the door to the Marketing Department. The scene that greeted him was simultaneously familiar and bizarre—a large conference room dominated by an oval table, but one that appeared to extend much further than the room's dimensions should allow.
 
-The table was cluttered with laptops, tablets, coffee cups, half-eaten pastries, and stacks of papers that looked untouched. A presentation was frozen on the screen at the front of the room, displaying a slide titled "PARADIGM-SHIFTING BRAND EVOLUTION STRATEGY (DAY 47)."
+The table was cluttered with laptops, tablets, coffee cups, half-eaten pastries, and stacks of papers that looked untouched. A presentation was frozen on the screen at the front of the room, displaying a slide titled "PARADIGM-SHIFTING BRAND EVOLUTION STRATEGY (DAY 42)."
 
 Three people sat at the far end of the table despite there being at least twenty empty chairs. They were engaged in what appeared to be an intense discussion, complete with animated gestures and occasional bursts of strained laughter.
 
 "Excuse me," Bob called out, but none of them seemed to notice his entrance.
 
-He walked further into the room, taking in more details. Every wall clock showed exactly 5:00 PM, despite his phone indicating it was now closer to 5:30. Scattered around the room were numerous empty coffee cups, some looking quite old based on the dried residue inside them.
+He walked further into the room, taking in more details. Every wall clock showed exactly 4:59 PM, despite his watch indicating it was now closer to 3:45. Scattered around the room were numerous empty coffee cups, some looking quite old based on the dried residue inside them.
 
 As Bob approached the occupied end of the table, he could finally make out the conversation.
 
@@ -54,7 +54,7 @@ All three looked at him as if he'd asked why water was wet.
 
 "The perpetual alignment summit," Marcia added, checking all her phones in rapid succession.
 
-"The never-ending story of brand evolution!" Timothy spread his arms dramatically. "We're currently on slide 47 of 2,394, though we frequently loop back to earlier concepts when experiencing strategic clarity deficits."
+"The never-ending story of brand evolution!" Timothy spread his arms dramatically. "We're currently on slide 39 of 2,394, though we frequently loop back to earlier concepts when experiencing strategic clarity deficits."
 
 Bob glanced at the presentation screen, which still hadn't changed. "How long has this meeting been going on?"
 
@@ -64,9 +64,9 @@ The three exchanged glances.
 
 "Monday. February 25th," Bob repeated.
 
-Timothy consulted a comically large calendar on the wall. "Then we're on day... 47 of the Q1 Marketing Strategy Synergization Summit."
+Timothy consulted a comically large calendar on the wall. "Then we're on day... 37 of the Q1 Marketing Strategy Synergization Summit."
 
-"Forty-seven days?" Bob asked incredulously.
+"Thirty-seven days?" Bob asked incredulously.
 
 "Is that a long time?" Timothy seemed genuinely puzzled. "Time moves differently in Marketing. We're temporally disruptive."
 
@@ -84,7 +84,7 @@ Timothy consulted a comically large calendar on the wall. "Then we're on day... 
 
 "And yet, here we are!" Timothy gestured around the room. "Eternally strategizing, forever ideating, continuously aligning!"
 
-Marcia leaned toward Bob conspiratorially. "The clocks haven't moved since The Incident. We've tried replacing them, but they all freeze at 5 PM. It's always almost time to leave, but never quite time."
+Marcia leaned toward Bob conspiratorially. "The clocks haven't moved since The Incident. We've tried replacing them, but they all freeze at 4:59 PM. It's always almost time to leave, but never quite time."
 
 "Have you considered just... ending the meeting?" Bob suggested. "Standing up and walking out?"
 
@@ -116,9 +116,9 @@ Dora mumbled something incoherent, her face once again pressed against her keybo
 
 "What was that?" Bob asked.
 
-Timothy waved dismissively. "Dora occasionally offers brilliant insights in her semiconscious state. Last week—or perhaps it was tomorrow—she solved our social media engagement algorithm while sleeptalking."
+Timothy waved dismissively. "Dora occasionally offers brilliant insights in her semiconscious state. Last week—or perhaps it was tomorrow—she provided the naming convention for our new Dashboard while sleeptalking."
 
-"We implemented it immediately," Marcia added. "Though we're not entirely sure what it does."
+"We implemented it immediately," Marcia added. "Though we're not entirely sure what it means."
 
 Timothy suddenly focused intently on Bob. "Why is a whitepaper like a webinar?"
 
@@ -144,7 +144,7 @@ Bob was beginning to feel disoriented by the conversation, which seemed to swirl
 
 "Could you at least tell me what Wonderland, Inc. actually does as a company? What products or services does it offer?"
 
-The question was met with stunned silence. Timothy and Marcia exchanged confused glances, while Dora lifted her head slightly, one eye open.
+The question was met with stunned silence. Timothy and Marcia exchanged confused glances.
 
 "What Wonderland does?" Timothy repeated slowly, as if the question were in a foreign language.
 
@@ -176,7 +176,7 @@ He clicked a remote, and the presentation finally advanced to a new slide titled
 
 The slide was completely blank apart from the title.
 
-"I don't have any feedback to contribute," Bob said apologetically. "I still don't understand what you're marketing or to whom."
+"I don't have any feedback to contribute," Bob said apologetically. "I still don't understand what you're planning for the Dashboard."
 
 Timothy's expression suddenly shifted, becoming uncharacteristically serious. "Have you tried turning it off and on again?"
 
@@ -216,8 +216,6 @@ As he closed the door behind him, he caught one last glimpse of the bizarre trio
 
 Bob exhaled deeply once the door was shut, leaning against the wall of the hallway. Each department at Wonderland seemed stranger than the last, and he was no closer to finding his way out of the building or understanding his role within the company.
 
-Checking his watch, he was startled to see that it was still 5:00 PM—exactly the same time shown on all the clocks in the Marketing Department. He checked his phone, which also displayed 5:00 PM, despite feeling certain that at least half an hour had passed during his time in the meeting.
-
 "Time is broken," he muttered to himself, remembering Timothy's bizarre explanation. It couldn't possibly be true, and yet...
 
 His contemplation was interrupted by the sound of hurried footsteps and animated voices approaching from around the corner. Bob straightened up, hoping it might be someone who could finally provide sensible directions.
@@ -232,4 +230,4 @@ With no time to consider his options, Bob did the only thing that seemed rationa
 
 Finding himself in a stairwell, he quickly climbed up, hoping to avoid the CEO and her entourage. When he emerged onto the roof, he was surprised to find a vast, manicured space that looked more like a formal garden than the top of a building.
 
-And even more surprisingly, it was filled with people setting up what appeared to be some kind of bizarre performance review event.
+And even more surprisingly, it was filled with people setting up what appeared to be some kind of performance review event.
