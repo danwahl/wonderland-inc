@@ -8,13 +8,13 @@ Employees filled every available space, arranged by department and seniority. Th
 
 "Regina's Corporate Adjudication Events are a Wonderland tradition," Morris explained quietly. "Quasi-judicial proceedings for everything from missed targets to inappropriate refrigerator usage."
 
-"Last quarter, she put the entire Accounting department on trial for 'conspiracy to commit pessimistic forecasting,'" Gregory added. "Three received suspensions, and one was reassigned to the basement archive."
+"Last quarter, the entire Accounting department was put on trial for 'conspiracy to commit pessimistic forecasting,'" Gregory added. "Three received suspensions, and one was reassigned to the basement archive."
 
-Regina stood at the center of the stage, her crimson suit seeming even more vivid under the spotlight. She held her leather-bound innovation journal with the protective reverence one might give a sacred text. Karl Heart hovered nearby, his expression suggesting he was mentally calculating potential severance packages.
+Regina stood at the center of the stage, her crimson suit seeming even more vivid under the spotlight. She held her innovation journal with the protective reverence one might give a sacred text. Karl Heart hovered nearby, his expression suggesting he was mentally calculating potential severance packages.
 
 "Bring in the accused!" Regina commanded.
 
-Two security guards escorted Victor Hartman, VP of Product, to the defendant's box. Victor was a tall, polished executive whose usually confident demeanor had been replaced with barely contained anxiety. His tailored suit still looked immaculate, but his tie was slightly askew—the Wonderland equivalent of being in complete disarray.
+Two security guards escorted Victor Hartman, VP of Product, to the defendant's box. Victor was a tall, polished executive whose usually confident demeanor had been replaced with barely contained anxiety. His tailored suit still looked immaculate, but his tie was slightly askew—the first sign of disarray Bob had seen in an executive appearance since arriving at Wonderland.
 
 Harvey White scurried to the center stage, carrying a tablet. "Order in the proceedings!" he called out unnecessarily, as the room was already deathly silent. "The Case of Heart versus Hartman will now commence!"
 
@@ -108,7 +108,7 @@ A nervous IT manager halfway stood, then immediately sat back down. "The, uh, ti
 
 "There we have it," Regina said with satisfaction. "Technological confirmation."
 
-From his position near the back, Bob leaned toward Morris. "This is ridiculous. Are dashboard concepts really worth this level of drama?"
+From his position near the back, Bob leaned toward Morris. "This is rather elaborate for what appears to be a standard dashboard concept."
 
 "It's not about the dashboard," Morris whispered back. "It's about control and credit. Regina believes all good ideas should either come from her or be attributed to her."
 
@@ -124,9 +124,9 @@ Victor rose with dignity despite his precarious position. "Thank you, Ms. Heart.
 
 He gestured to the screen, where Harvey reluctantly displayed a series of dated design documents and meeting notes.
 
-"As these records show, we've been iterating on this concept since Q3 of last year," Victor continued. "The similarity to your journal entry is coincidental—unsurprising given that sentiment analysis dashboards are an industry standard feature."
+"As these records show, we've been iterating on this concept since Q3 of last year," Victor continued. "The similarity to your journal entry is coincidental—unsurprising given that sentiment analysis dashboards with AI integration are an industry standard feature."
 
-A murmur spread through the crowd. Regina's expression darkened.
+A murmur spread through the crowd at the mention of AI integration. Regina's expression darkened further.
 
 "Are you suggesting," she said dangerously, "that my groundbreaking innovation was somehow... unoriginal?"
 
@@ -152,7 +152,7 @@ Victor looked genuinely confused. "I had no knowledge of your journal entry. As 
 
 Regina turned to the audience dramatically. "I propose a different theory. Someone on Mr. Hartman's team—or perhaps Mr. Hartman himself—gained unauthorized access to my office, viewed my Innovation Journal, and passed along the revolutionary concept, allowing him to suddenly have a 'revelation.'"
 
-Bob whispered to Morris, "Can she really believe this conspiracy theory?"
+Bob whispered to Morris, "Does she really believe this conspiracy theory?"
 
 "Whether she believes it is irrelevant," Morris replied quietly. "The accusation itself serves her purpose—reinforcing that all innovation should flow through her."
 
@@ -182,7 +182,7 @@ Karl again whispered something to Regina, who nodded curtly.
 
 "However," she continued, "in recognition of Mr. Hartman's years of service to Wonderland, the penalty will be reduction in rank rather than termination. Mr. Hartman is hereby demoted to Director of Legacy Product Maintenance, effective immediately."
 
-Victor's face remained impressively stoic, though the punishment was clearly severe—Legacy Product Maintenance was notorious as the department where careers went to die.
+Victor's face remained impressively stoic, though the penalty was clearly severe.
 
 "This matter is concluded," Regina announced. "Let this serve as a reminder that at Wonderland, we take intellectual property very seriously. All innovations should flow through proper channels." The unspoken implication—that "proper channels" meant Regina herself—was lost on no one.
 
@@ -236,11 +236,11 @@ They watched as Dora returned to her seat, seemingly unaware of the corporate ea
 
 "We should go," Gregory advised. "When Regina retreats to reconsider, it's best not to be visible during the cooling-off period."
 
-As they moved toward the exit, Harvey's voice came over the speaker system: "All employees, please return to your regular duties. The Mandatory Morale Event will resume in fifteen minutes with the Team Synchronicity Exercise!"
+As they moved toward the exit, Harvey's voice came over the speaker system: "All employees, please return to your departments. Regular activities will resume in fifteen minutes with the Team Synchronicity Exercise!"
 
 A collective groan went up from the crowd.
 
-"Perfect timing for our escape," Morris said, quickening his pace. "The post-adjudication confusion combined with Mandatory Morale dread creates optimal conditions for a clean exit."
+"Perfect timing for our escape," Morris said, quickening his pace. "The post-adjudication confusion combined with mandatory team building creates optimal conditions for a clean exit."
 
 They had almost reached the door when Harvey appeared in front of them, looking even more harried than usual.
 
@@ -252,7 +252,7 @@ Bob felt his stomach drop. "Me? Why?"
 
 Morris and Gregory exchanged alarmed glances.
 
-"That's... quite an honor for a first day," Morris said carefully.
+"That's... quite an opportunity for a first day," Morris said carefully.
 
 "Or a perfect setup for a scapegoat," Gregory muttered under his breath.
 
@@ -264,11 +264,7 @@ Morris and Gregory exchanged alarmed glances.
 
 "And if directly questioned, develop a sudden coughing fit," Gregory advised. "Works every time."
 
-"This is insane," Bob said, shaking his head. "I've been here less than a day, and I'm already being pulled into executive power struggles."
-
-"Welcome to Wonderland," Morris said with a sympathetic pat on Bob's shoulder. "Where your job title is made up and your actual work doesn't matter."
-
-As Bob reluctantly headed toward Conference Room A, he wondered how his straightforward first day at a new job had devolved into this corporate theater of the absurd. Between Regina's kangaroo court, Victor's public humiliation, and the shocking intern revelation, he had witnessed more drama in a few hours than in his entire previous career.
+As Bob reluctantly headed toward Conference Room A, he wondered how his straightforward first day at a new job had evolved into this corporate theater of the absurd. Between Regina's kangaroo court, Victor's public humiliation, and the shocking intern revelation, he had witnessed more drama in a few hours than in his entire previous career.
 
 "Conference Room A is on the third floor, east wing," Morris called after him. "Just follow the trail of anxious executives!"
 
@@ -277,9 +273,5 @@ Bob nodded his thanks and headed toward the elevator, Morris's notebook of corpo
 As the elevator doors closed, he caught a final glimpse of the atrium. The judge's bench was being quickly disassembled, while employees reluctantly gathered for the resumption of mandatory team building. Above it all, the large screen now displayed a single message:
 
 "INTELLECTUAL PROPERTY ADJUDICATION: TEMPORARILY SUSPENDED. +
-MANDATORY MORALE EVENT: PARTICIPATION NON-NEGOTIABLE. +
+MANDATORY TEAM BUILDING: PARTICIPATION NON-NEGOTIABLE. +
 REGULAR CORPORATE ACTIVITIES: CONTINUE UNTIL FURTHER NOTICE."
-
-It was, Bob reflected, the perfect summary of his Wonderland experience thus far: chaos masquerading as order, drama disguised as process, and nowhere, absolutely nowhere, a hint of actual productive work being done.
-
-The elevator began its ascent toward what promised to be yet another baffling chapter in his increasingly surreal first day.

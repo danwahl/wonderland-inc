@@ -16,9 +16,9 @@ She said "intern submission" with the same tone someone might use for "toxic was
 
 Bob felt all eyes turn to him. "I appreciate your confidence," he began cautiously, "but I'm not sure I'm qualified to—"
 
-"Your background check indicated expertise in project coordination and process analysis," Regina interrupted. "That's precisely what's needed here—an objective assessment of the timeline and documentation."
+"Your application indicated experience with project analysis and process evaluation," Regina interrupted. "Those skills are precisely what's needed here—an objective assessment of the timeline and documentation."
 
-Bob had no recollection of claiming such expertise in his job application, but contradicting Regina seemed unwise. "I'll do my best," he conceded.
+Bob had no recollection of emphasizing such skills in his job application, but contradicting Regina seemed unwise. "I'll do my best," he conceded.
 
 "Excellent. Let's begin with the intern submission," Regina said, nodding to Dora. "Ms. Mouse, present your evidence."
 
@@ -28,7 +28,17 @@ She advanced through several slides showing research, user interviews, and final
 
 "We submitted this to the Junior Innovation Portal on November 3rd," Dora continued. "According to protocol, it should have been reviewed by both Product Development and the Executive Committee within thirty days."
 
-Victor leaned forward. "I never received this submission," he repeated from earlier. "The Junior Innovation Portal reports to HR, not Product."
+One of the executives leaned forward. "Where did your team initially get this concept?"
+
+Dora hesitated, glancing nervously at Regina. "We... we used Wonderchat during our brainstorming session. We gave it a prompt asking for dashboard ideas to visualize customer feedback, and it generated the basic framework. We then refined it based on actual user needs."
+
+A cold silence fell over the room. Regina's expression froze somewhere between disbelief and horror.
+
+"You're saying," Regina said slowly, each word precisely measured, "that this supposedly revolutionary concept came from our in-house chatbot?"
+
+"We used it as a starting point," Dora clarified. "But yes, the sentiment analysis visualization with real-time feedback loops was in its response to our prompt."
+
+Victor looked distinctly uncomfortable. "I never received this submission," he repeated from earlier. "The Junior Innovation Portal reports to HR, not Product."
 
 Karl checked something on his tablet. "According to the system logs, the submission was received and routed to Initial Screening, where it was categorized as 'Promising But Premature' and placed in the Quarterly Review queue."
 
@@ -90,7 +100,7 @@ As Bob spoke, something strange began to happen. The conference room seemed to s
 
 "You can't fire me," Bob realized suddenly, "because I don't actually work here. My position doesn't exist. This entire company might not exist in any meaningful sense. You're all just corporate roles pretending to be people, following scripts instead of thinking, moving papers from one desk to another and calling it productivity!"
 
-The room was definitely changing now—the solid corporate environment giving way to something less substantial. The executives' business attire seemed to shimmer, revealing glimpses of playing card suits underneath. Regina's crimson suit briefly resembled the dress of the Queen of Hearts.
+The room was definitely changing now—the solid corporate environment giving way to something less substantial. The executives' business attire seemed to shimmer, revealing glimpses of organizational charts and business cards underneath. Regina's crimson suit appeared to be composed of hundreds of overlapping policy memos, all stamped with her signature in red.
 
 "You're nothing but a stack of business cards!" Bob declared.
 

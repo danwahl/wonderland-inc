@@ -1,10 +1,12 @@
 == The Veteran Employee's Story
 
-The Institutional Memory Preservation Unit was unlike any other part of Wonderland, Inc. that Bob had seen. While the rest of the building featured modern, sterile spaces with motivational slogans and cutting-edge technology, this room was a corporate time capsule. Wood-paneled walls held framed newspaper clippings and vintage company advertisements. Glass display cases contained obsolete office equipment—typewriters, fax machines, and early mobile phones the size of bricks. The lighting was warm rather than fluorescent, and comfortable leather chairs had replaced the ergonomic monstrosities found elsewhere.
+The Institutional Memory Preservation Unit was unlike any other part of Wonderland, Inc. that Bob had seen. While the rest of the building featured modern, sterile spaces with motivational slogans and cutting-edge technology, this room was a corporate time capsule. Wood-paneled walls held framed newspaper clippings and vintage company advertisements. Glass display cases contained obsolete office equipment—typewriters, fax machines, and early mobile phones the size of bricks. The lighting was warm rather than fluorescent, and comfortable chairs had replaced the ergonomic monstrosities found elsewhere.
 
 Morris sat in a worn executive chair that had clearly been custom-fitted to his frame through decades of use. He was a round-shouldered man with thinning gray hair and kind eyes that looked perpetually on the verge of tears behind thick glasses. His cardigan—an item Bob hadn't seen anywhere else in the building—bore a faded Wonderland logo from some previous branding era.
 
-Gregory Griffin, by contrast, was all vigor and volume. His pinstriped suit was several shades brighter than would be considered professional in most offices, and his booming voice seemed calibrated to fill boardrooms. He sat forward in his chair, constantly fidgeting as if impatient for his turn to speak.
+"Gregory Griffin," the man in the pinstriped suit announced, extending his hand to Bob. "Head of Sales Enablement. And this is Morris Turtle, our longest-serving employee and keeper of corporate lore."
+
+Gregory was all vigor and volume. His pinstriped suit was several shades brighter than would be considered professional in most offices, and his booming voice seemed calibrated to fill boardrooms. He sat forward in his chair, constantly fidgeting as if impatient for his turn to speak.
 
 "Sit, sit!" Gregory insisted, gesturing to an empty chair. "You've arrived at precisely the right moment. Morris was about to explain Wonderland's legendary professional development program!"
 
@@ -38,7 +40,7 @@ Morris shrugged. "The current official designation is 'cross-vertical innovation
 
 Morris's expression brightened. "Ah, yes. The Corporate Advancement Curriculum. Nothing like today's half-hour webinars and self-guided e-learning."
 
-He stood and moved to a glass cabinet, retrieving a leather-bound binder labeled "Employee Development Matrix - 1986." Opening it reverently, he showed Bob a complex chart with interconnected boxes and arrows.
+He stood and moved to a glass cabinet, retrieving a binder labeled "Employee Development Matrix - 1986." Opening it reverently, he showed Bob a complex chart with interconnected boxes and arrows.
 
 "Every new employee went through a comprehensive developmental journey," Morris explained. "We called the fundamental courses the Four Ms: Minuting, Memoing, Mailing, and Meeting."
 
@@ -70,7 +72,7 @@ Morris winced. "We don't talk about that one."
 
 "Some failures exceed even my revisionist capabilities," Morris admitted sadly.
 
-He returned to his chair, the leather binder resting in his lap like a cherished photo album. "After completing the standard curriculum, employees could specialize in advanced disciplines. I chose Corporate Anthropology with a concentration in Legacy Protocol Preservation."
+He returned to his chair, the binder resting in his lap like a cherished photo album. "After completing the standard curriculum, employees could specialize in advanced disciplines. I chose Corporate Anthropology with a concentration in Legacy Protocol Preservation."
 
 "I went into Sales Mythology and Competitive Exaggeration," Gregory said. "Graduated top of my class."
 
@@ -86,7 +88,7 @@ Morris turned to another section of the binder, revealing photographs of employe
 
 "What happened to this program?" Bob asked. "It sounds... comprehensive."
 
-Morris sighed deeply, the sound of a man who had witnessed the decline of something he truly valued, however absurd it might seem to outsiders.
+Morris sighed deeply, the sound of a man who had witnessed the decline of something he truly valued, however unusual it might seem to outsiders.
 
 "Budget optimization," he said bitterly. "The Great Efficiency Revolution of 2003. All instruction was digitized and reduced to bullet points. Sixteen-week courses became thirty-minute webinars. Deep skill development was replaced with 'just-in-time learning' and 'microcompetencies.'"
 
@@ -124,7 +126,7 @@ Morris leaned forward, suddenly earnest. "It's not too late for you. I could tea
 
 "Then Strategic Visibility Calibration," Morris said, warming to the topic. "Knowing precisely when to be seen by executives and when to become mysteriously unavailable."
 
-The two older employees began outlining an increasingly absurd curriculum, each trying to outdo the other with ridiculous-yet-familiar corporate skills. Bob listened with growing fascination as they mapped out what amounted to a master class in corporate game-playing and politics.
+The two older employees began outlining an increasingly elaborate curriculum, each trying to outdo the other with ridiculous-yet-familiar corporate skills. Bob listened with growing fascination as they mapped out what amounted to a master class in corporate game-playing and politics.
 
 "—and by week twelve, you'd be ready for Advanced Blame Deflection," Morris was saying, his eyes shining with nostalgic fervor. "I once redirected accountability for a failed product launch to a weather pattern in the South Pacific. Got a commendation for 'environmental awareness' while my colleagues were reassigned."
 
@@ -132,7 +134,7 @@ The two older employees began outlining an increasingly absurd curriculum, each 
 
 "That's nothing compared to—" Morris began, but stopped suddenly, his enthusiasm deflating like a punctured balloon. "But what's the point? The old ways are dying. Soon no one will remember when Wonderland was... well, not normal, exactly, but consistently abnormal in ways we understood."
 
-His melancholy was so genuine that Bob felt a surprising surge of sympathy, despite the absurdity of what Morris was lamenting.
+His melancholy was so genuine that Bob felt a surprising surge of sympathy, despite the peculiarity of what Morris was lamenting.
 
 "How did Wonderland end up this way?" Bob asked gently. "It seems like there's no actual business happening here—just meetings, performance reviews, and corporate rituals."
 
@@ -180,9 +182,7 @@ He stood up with a grunt, his joints protesting after so long in his chair. "I'd
 
 "Each new hire must perform a corporate-themed talent or recite company values in the form of an inspirational poem," Gregory explained. "Established by Regina to 'quickly identify team players and cultural fits.'"
 
-"That sounds horrible," Bob said without thinking.
-
-"It is," both men agreed in unison.
+Bob's expression must have conveyed his thoughts, because Morris nodded sympathetically. "It's certainly a unique tradition."
 
 "Is there any way to avoid it?" Bob asked.
 
@@ -196,9 +196,9 @@ Morris and Gregory exchanged looks.
 
 "Down the hall, third door on the left. Look for the sign that says 'Global Engagement Synchronicity Hub,'" Morris directed. "Though I should warn you, they're somewhat... particular about their protocols."
 
-"Thank you," Bob said sincerely. "For everything. This has been the most straightforward conversation I've had all day, despite being about the most absurd corporate education program I've ever heard of."
+"Thank you," Bob said sincerely. "For everything. This has been enlightening, despite being about a corporate education program that's quite unlike anything I've encountered before."
 
-Morris smiled, the melancholy lifting slightly from his features. "Sometimes absurdity becomes so consistent it forms its own kind of clarity."
+Morris smiled, the melancholy lifting slightly from his features. "Sometimes consistent patterns become their own kind of clarity, even when those patterns might seem unusual to newcomers."
 
 "Before you go," Gregory said, reaching into his jacket pocket, "take my card. If you survive your first week at Wonderland, I may have a spot for you in Sales Enablement. We could use someone who sees through the nonsense."
 
@@ -210,9 +210,9 @@ Bob accepted the business card, which was printed on unusually thick stock and s
 
 "I've memorized every entry," Morris assured him. "Besides, my corporate journey is nearly complete. Yours is just beginning. Consider it the last lesson from the old curriculum: Strategic Knowledge Transfer."
 
-Touched by the gesture, Bob carefully pocketed the notebook. "I hope we meet again under less bizarre circumstances."
+Touched by the gesture, Bob carefully pocketed the notebook. "I look forward to our paths crossing again as I continue to navigate Wonderland."
 
-"At Wonderland? Unlikely," Gregory laughed. "But perhaps slightly less bizarre, if you're lucky."
+"At Wonderland? Likely," Gregory laughed. "Though perhaps under different circumstances, if you're lucky."
 
 As Bob turned to leave, Morris called after him. "Remember—when the monthly BPE report comes due, claim you're on the TPX taskforce! No one knows what it is, but everyone's afraid to admit it!"
 
@@ -225,6 +225,4 @@ The hallway was quieter than most areas of Wonderland, with fewer motivational p
 "I think you're on mute." +
 "Who just joined?"
 
-Bob recognized the familiar rhythms of corporate conference calls—a strange dance of technology and human awkwardness that somehow functioned as business communication. He knocked softly and entered, hoping to find a refuge from Wonderland's more extreme absurdities.
-
-What he found instead was an entirely new form of corporate madness.
+Bob recognized the familiar rhythms of corporate conference calls—a strange dance of technology and human awkwardness that somehow functioned as business communication. He knocked softly and entered.
