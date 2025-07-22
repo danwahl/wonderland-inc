@@ -1,8 +1,9 @@
 = Wonderland, Inc.
-Claude 3.7 Sonnet (Extended) and Dan Wahl
+Daniel Wahl
 :doctype: book
 :sectnums:
 :toc: macro
+:version-label:
 
 toc::[]
 
