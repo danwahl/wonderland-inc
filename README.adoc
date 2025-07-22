@@ -8,6 +8,7 @@ You can generate the e-book files manually with Asciidoctor.
 If you run the following you _may_ actually get HTML, Epub, and PDF output files:
 
 ----
+$ bundle config set --local path 'vendor/bundle'
 $ bundle install
 $ bundle exec rake book:build
 Converting to HTML...
