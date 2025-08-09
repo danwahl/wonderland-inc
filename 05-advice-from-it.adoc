@@ -22,7 +22,7 @@ Marcus tapped briefly on one of the many keyboards arranged around his elevated 
 
 "Curious," he murmured. "According to our systems, 'Bob Henderson' has been accessing our network for the past three weeks. Seventeen unique logins across twelve different subsystems, including multiple queries about the Dashboard project's data architecture." He looked down at Bob with renewed interest. "Are you certain today is your first day?"
 
-"Absolutely positive," Bob replied, increasingly unsettled. "My offer letter specified February 25th as my start date. Today."
+"Absolutely positive," Bob replied, increasingly unsettled. "My offer letter specified February 24th as my start date. Today."
 
 "Yet our digital onboarding template for your profile was initialized on February 3rd. Your virtual identity has been active for some time." Marcus continued scrolling through data screens. "You've already established quite a digital footprint within our systems."
 

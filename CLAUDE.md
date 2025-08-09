@@ -1,11 +1,11 @@
-= WONDERLAND, INC.
-== Story Bible & Chapter Outlines
+# WONDERLAND, INC.
+## Story Bible & Chapter Outlines
 
-== OVERVIEW
+## OVERVIEW
 
 _Wonderland, Inc._ is a satirical corporate reimagining of Lewis Carroll's "Alice in Wonderland," following Bob, a new employee at a bizarre tech company called Wonderland, Inc. The story chronicles Bob's first week at the company as he encounters increasingly absurd corporate situations and eccentric colleagues, ultimately questioning whether he's losing his mind or if modern business culture really is this nonsensical.
 
-== TONE & STYLE
+## TONE & STYLE
 
 * *Satirical but not mean-spirited*: The humor should come from recognizable office situations taken to logical-but-absurd extremes
 * *Wordplay*: Like Carroll's original, incorporate puns, double meanings, and playful language
@@ -13,7 +13,7 @@ _Wonderland, Inc._ is a satirical corporate reimagining of Lewis Carroll's "Alic
 * *Contemporary*: Set in a modern tech company with current technology, buzzwords, and corporate trends
 * *Surreal progression*: The story should start relatively normal and grow increasingly bizarre
 
-== TIMELINE FRAMEWORK
+## TIMELINE FRAMEWORK
 
 *Bob's First Day Timeline*
 * 8:30 AM - Bob arrives at Wonderland, Inc. for his first day
@@ -36,7 +36,7 @@ _Wonderland, Inc._ is a satirical corporate reimagining of Lewis Carroll's "Alic
 * Bob's Belongings: Starts with a messenger bag; contents (phone, notebook) should be tracked
 * The USB Drive: Given by Marcus in Ch.5; remains important through the end
 
-== SURREALISM SCALE
+## SURREALISM SCALE
 
 To maintain the "surreal but not unreal" tone, use this scale for guidance:
 
@@ -54,7 +54,7 @@ To maintain the "surreal but not unreal" tone, use this scale for guidance:
 
 *The Corporate Surrealism Rule:* All surreal elements should function as metaphors for real corporate absurdities, just taken to extreme conclusions.
 
-== ENHANCED NARRATIVE ARC
+## ENHANCED NARRATIVE ARC
 
 *Core Conflict:* Bob's struggle is not just with the absurdity of Wonderland, Inc., but specifically with the company's increasingly dysfunctional relationship with actual productivity and value creation.
 
@@ -74,9 +74,9 @@ To maintain the "surreal but not unreal" tone, use this scale for guidance:
 * Harvey: Desperately trying to keep the dashboard project on schedule despite chaos
 * Department heads: Each trying to add their mark to the dashboard while avoiding blame for delays
 
-== DETAILED CHARACTER GUIDE
+## DETAILED CHARACTER GUIDE
 
-=== MAIN CHARACTER
+### MAIN CHARACTER
 
 *Bob Henderson*
 
@@ -87,7 +87,7 @@ To maintain the "surreal but not unreal" tone, use this scale for guidance:
 * Visual: Average height, neat business casual attire that becomes increasingly disheveled throughout the story
 * Notes: Bob is our Alice - the audience surrogate and voice of reason
 
-=== PRIMARY CHARACTERS
+### PRIMARY CHARACTERS
 
 *Harvey White (Executive Assistant)*
 
@@ -159,7 +159,7 @@ To maintain the "surreal but not unreal" tone, use this scale for guidance:
 * Personality: Ambitious, strategic, politically savvy
 * Role: Central figure in the climactic "trial" over stolen Dashboard ideas
 
-=== SECONDARY CHARACTERS
+### SECONDARY CHARACTERS
 
 *Malcolm Mouse (Accounting)*
 
@@ -216,9 +216,9 @@ To maintain the "surreal but not unreal" tone, use this scale for guidance:
 * Personality: Eager to please, afraid of making mistakes
 * Role: Frantically trying to execute executives' contradictory instructions
 
-== CHAPTER OUTLINES
+## CHAPTER OUTLINES
 
-=== Chapter 1: Down the Corporate Rabbit Hole
+### Chapter 1: Down the Corporate Rabbit Hole
 
 *Setting:* Wonderland, Inc. headquarters - a sleek, modern building with weird architectural features
 
@@ -249,7 +249,7 @@ To maintain the "surreal but not unreal" tone, use this scale for guidance:
 
 *Callbacks to Alice:* Instead of falling down a rabbit hole, Bob descends in an elevator. Instead of potions and cakes, Bob encounters strange corporate amenities that seem to affect his perspective and the building's proportions.
 
-=== Chapter 2: The Pool of Corporate Jargon
+### Chapter 2: The Pool of Corporate Jargon
 
 *Setting:* A strange, open office area unlike the modern reception Bob first encountered
 
@@ -281,7 +281,7 @@ To maintain the "surreal but not unreal" tone, use this scale for guidance:
 
 *Callbacks to Alice:* Instead of Alice's tears, we have spilled coffee. The pool gathering introduces the same characters but in corporate roles, all with ineffective approaches to solving their predicament.
 
-=== Chapter 3: A Team-Building Exercise and a Long Email Thread
+### Chapter 3: A Team-Building Exercise and a Long Email Thread
 
 *Setting:* A large conference room with motivational posters
 
@@ -312,7 +312,7 @@ To maintain the "surreal but not unreal" tone, use this scale for guidance:
 
 *Callbacks to Alice:* The Caucus-Race becomes the "Synergy Sprint" team-building exercise; the Mouse's tale becomes an email thread "tail" that's just as confusing and pointless.
 
-=== Chapter 4: The Executive Assistant Sends in a Direct Report
+### Chapter 4: The Executive Assistant Sends in a Direct Report
 
 *Setting:* A maze of cubicles and strange passageways
 
@@ -345,7 +345,7 @@ To maintain the "surreal but not unreal" tone, use this scale for guidance:
 
 *Callbacks to Alice:* Instead of growing too large from eating a cake, Bob "grows too large" by overwhelming the computer system. Bill Lizard still gets launched out, but from a Zoom meeting rather than a chimney.
 
-=== Chapter 5: Advice from IT
+### Chapter 5: Advice from IT
 
 *Setting:* The IT department - dark, strangely lit, with unusual equipment
 
@@ -376,7 +376,7 @@ To maintain the "surreal but not unreal" tone, use this scale for guidance:
 
 *Callbacks to Alice:* The vaping creates the same smoke clouds as the Caterpillar's hookah. The philosophical identity questions remain, but now relate to digital identity. The USB drives serve the role of the mushroom sides.
 
-=== Chapter 6: Micromanagement and Pressure
+### Chapter 6: Micromanagement and Pressure
 
 *Setting:* The Product Management department, a chaotic open office
 
@@ -408,7 +408,7 @@ To maintain the "surreal but not unreal" tone, use this scale for guidance:
 
 *Callbacks to Alice:* The Duchess's kitchen becomes the company kitchen with too many cooks. The pepper becomes corporate pressure. The baby-to-pig transformation becomes a human-to-metrics-obsessed transformation.
 
-=== Chapter 7: A Pointless Meeting Party
+### Chapter 7: A Pointless Meeting Party
 
 *Setting:* A Marketing conference room with a tea station and pastries that no one touches
 
@@ -439,7 +439,7 @@ To maintain the "surreal but not unreal" tone, use this scale for guidance:
 
 *Callbacks to Alice:* The tea party becomes a meeting with refreshments no one touches. The broken watch becomes stuck office clocks. The rotation around the table remains but as a corporate musical chairs.
 
-=== Chapter 8: The CEO's Performance Review Ground
+### Chapter 8: The CEO's Performance Review Ground
 
 *Setting:* A large outdoor corporate campus area set up for a company event
 
@@ -470,7 +470,7 @@ To maintain the "surreal but not unreal" tone, use this scale for guidance:
 
 *Callbacks to Alice:* The croquet game becomes a performance review with the same impossible rules and tyrant overseer. The flamingos and hedgehogs become metaphorical business tools that don't cooperate.
 
-=== Chapter 9: The Veteran Employee's Story
+### Chapter 9: The Veteran Employee's Story
 
 *Setting:* A quiet corner of the corporate campus with old-style office furniture
 
@@ -504,7 +504,7 @@ To maintain the "surreal but not unreal" tone, use this scale for guidance:
 
 *Callbacks to Alice:* The Mock Turtle's school becomes Morris's corporate training. The melancholic tone remains the same. The nonsensical subjects are business-themed rather than academic.
 
-=== Chapter 10: The Conference Call Quadrille
+### Chapter 10: The Conference Call Quadrille
 
 *Setting:* A high-tech conference room with multiple screens and devices
 
@@ -537,7 +537,7 @@ To maintain the "surreal but not unreal" tone, use this scale for guidance:
 
 *Callbacks to Alice:* The Lobster Quadrille becomes the Conference Call Quadrille - both are elaborate dances with incomprehensible rules. The sea creatures become international offices. The dance instructions become conference call etiquette.
 
-=== Chapter 11: Who Stole the Intellectual Property?
+### Chapter 11: Who Stole the Intellectual Property?
 
 *Setting:* A formal boardroom set up like a courtroom
 
@@ -573,7 +573,7 @@ To maintain the "surreal but not unreal" tone, use this scale for guidance:
 
 *Callbacks to Alice:* The trial for the tarts becomes a trial for stolen ideas. The kangaroo court atmosphere remains, with the same arbitrary rules and foregone conclusions.
 
-=== Chapter 12: Bob's Evidence
+### Chapter 12: Bob's Evidence
 
 *Setting:* Regina's imposing executive office
 
@@ -612,7 +612,7 @@ To maintain the "surreal but not unreal" tone, use this scale for guidance:
 
 *Callbacks to Alice:* The final confrontation with the court of cards becomes a confrontation with corporate hierarchy. The awakening from the dream remains, but with ambiguity about whether the cycle continues.
 
-== THEMES TO MAINTAIN THROUGHOUT
+## THEMES TO MAINTAIN THROUGHOUT
 
 . *The Absurdity of Corporate Language*: How buzzwords and jargon often mask simple concepts or lack of substance
 . *Shifting Rules and Expectations*: The constantly changing landscape of expectations, priorities, and measurements
@@ -623,7 +623,7 @@ To maintain the "surreal but not unreal" tone, use this scale for guidance:
 . *The Performance of Work*: The difference between appearing productive versus actually creating value
 . *Trend-Chasing*: How companies latch onto buzzwords (like AI) without substance behind them
 
-== CONTINUITY ELEMENTS
+## CONTINUITY ELEMENTS
 
 * *Bob's Appearance*: Should become gradually more disheveled as the story progresses
 * *The Building Layout*: Should remain confusingly inconsistent, with departments appearing where they weren't before

@@ -111,7 +111,7 @@ WELCOME TO WONDERLAND, INC.
 WHERE NOTHING IS IMPOSSIBLE BECAUSE EVERYTHING IS PERMITTED
 
 USERNAME: BHenderson
-PASSWORD: ▓▓▓▓▓▓▓▓▓▓
+PASSWORD: password123
 ....
 
 Bob stared at the screen, then at the dark hallway with its numerous doors, then back at what appeared to be his company ID.

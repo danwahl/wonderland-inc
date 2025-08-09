@@ -55,14 +55,14 @@ Bob examined the card, which contained entries like:
 
 As Bob was reviewing these phrases, the room suddenly transformed. The individual conversations ceased simultaneously, and all participants sat straighter in their chairs. Sylvia pressed a series of buttons on her console, and a multiscreen display at the front of the room illuminated to show video feeds from at least twelve different locations around the world.
 
-"Global Financial Services Alignment Call commencing," Sylvia announced in a completely different voice—crisper, more authoritative. "Please signify presence when called. Tokyo?"
+"Global Financial Services Alignment Call commencing," Sylvia announced in a completely different voice—crisper, more authoritative. "Please signify presence when called. Sydney?"
 
-"Tokyo present," came a response from the screens.
+"Sydney present," came a response from the screens.
 
+"Tokyo?" +
+"Tokyo present." +
 "Singapore?" +
-"Singapore present." +
-"Sydney?" +
-"Sydney present and aligned."
+"Singapore present and aligned."
 
 The roll call continued through time zones moving westward around the globe. Bob watched in fascination as the team operated with military precision, nothing like the chaotic corporate behavior he'd witnessed elsewhere at Wonderland.
 
@@ -153,9 +153,9 @@ Finally, Sylvia announced, "Approaching sequence conclusion. Prepare for Final G
 
 The team formed a perfect circle around the table, each facing outward to a different screen. On Sylvia's mark, each person recited their assigned line:
 
-"Tokyo confirms alignment with global directives." +
-"Singapore acknowledges unified strategic intent." +
-"Sydney validates cross-regional synchronization."
+"Sydney confirms alignment with global directives." +
+"Tokyo acknowledges unified strategic intent." +
+"Singapore validates cross-regional synchronization."
 
 When Bob's turn came, he read from his script: "EMEA affirms commitment to collective objectives."
 
@@ -165,7 +165,7 @@ The proceedings concluded with Sylvia leading what could only be described as a 
 Will you, will you, will you, will you meet our demands? +
 The quarterly goals are waiting on the dashboard to view, +
 While distant offices labor in time zones old and new. +
-Will you, won't you, will you, won't you execute the strategy? +
+Will you, won't you, will you, won't you strategize? +
 Will you, won't you, will you, won't you achieve the KPIs?"
 
 Each office responded in turn with the same chorus, creating a global round of corporate recitation that was simultaneously ridiculous and hypnotic. Bob found himself joining in by the final verse, caught up in the strange energy of the ritual.

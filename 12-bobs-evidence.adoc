@@ -38,17 +38,17 @@ A cold silence fell over the room. Regina's expression froze somewhere between d
 
 "We used it as a starting point," Dora clarified. "But yes, the sentiment analysis visualization with real-time feedback loops was in its response to our prompt."
 
-Victor looked distinctly uncomfortable. "I never received this submission," he repeated from earlier. "The Junior Innovation Portal reports to HR, not Product."
+Victor looked distinctly uncomfortable. "But wait—how did you even get access to Wonderchat? The intern program doesn't include those credentials."
 
-Karl checked something on his tablet. "According to the system logs, the submission was received and routed to Initial Screening, where it was categorized as 'Promising But Premature' and placed in the Quarterly Review queue."
+Dora shifted uncomfortably. "Someone found login credentials that weren't being used. They were in the new hire onboarding folder on the shared drive. A user named BHenderson, I think."
 
-"Which means it entered administrative limbo," one of the other executives muttered.
+All eyes in the room slowly turned to Bob.
 
-Regina shot him a sharp look before turning back to Dora. "Why didn't you follow up when you received no response?"
+"We only used it to access Wonderchat for our brainstorming session," Dora continued apologetically. "We didn't think anyone would notice since the person hadn't even started yet."
 
-"We did," Dora replied, gaining confidence. "Three times. We received automated responses saying our submission was 'In Process' and would be 'Escalated to Appropriate Stakeholders in Alignment with Strategic Priorities.'"
+Regina's face cycled through several shades of red. "You're telling me that our AI platform was accessed by interns using credentials for an employee who didn't exist yet?"
 
-Several executives winced at this familiar corporate non-answer.
+"Well, he exists now," Karl pointed out, gesturing at Bob.
 
 Next, Victor presented his evidence—a comprehensive documentation trail showing progressive development of dashboard concepts dating back months. His team had indeed been working on similar functionality long before Regina's journal entry, though their version had evolved through multiple iterations.
 
@@ -84,7 +84,7 @@ Karl sucked in a sharp breath. Regina's face flushed to match her suit.
 
 "Respectfully, Ms. Heart," Bob replied, standing as well, "I don't think anyone understands how innovation works at Wonderland—or if it works at all. From what I've seen today, this company is so preoccupied with meetings about work, reviews of work, and disputes over credit for work that no actual work ever gets done."
 
-The statement hung in the air like a corporate blasphemy. Several executives audibly gasped. Victor unsuccessfully tried to disguise a smile as a cough. Dora's eyes widened to their fullest extent, possibly for the first time since her employment began.
+The statement hung in the air like a corporate blasphemy. Several executives audibly gasped. Victor unsuccessfully tried to disguise a smile as a cough. Dora's eyes widened to their fullest extent, possibly for the first time since her internship began.
 
 Regina stood fully now, her presence seeming to expand until it dominated the room. "Mr. Henderson, you are hereby—"
 
